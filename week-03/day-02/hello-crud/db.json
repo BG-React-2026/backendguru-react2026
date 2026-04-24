@@ -1,0 +1,17 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "name": "Interstellar"
+    },
+    {
+      "id": "2",
+      "name": "Pulp Fiction"
+    },
+    {
+      "id": "3",
+      "name": "Green Mile"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

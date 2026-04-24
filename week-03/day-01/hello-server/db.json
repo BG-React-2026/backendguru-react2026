@@ -1,0 +1,13 @@
+{
+  "pokemons": [
+    {
+      "id": "aFXWo59AIJE",
+      "name": "blablabla"
+    },
+    {
+      "name": "Pikachuuu",
+      "id": "iXk7mV3F_IU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
