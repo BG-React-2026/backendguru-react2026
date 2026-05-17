@@ -1,0 +1,8002 @@
+[
+  {
+    "id": "DOC-00001",
+    "title": "Stok Sayım Sunum #1",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2025-09-11",
+    "sizeKb": 1773
+  },
+  {
+    "id": "DOC-00002",
+    "title": "Aralık Ayı Tutanak #2",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2024-12-01",
+    "sizeKb": 3240
+  },
+  {
+    "id": "DOC-00003",
+    "title": "Tedarikçi Sunum #3",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2023-10-28",
+    "sizeKb": 1058
+  },
+  {
+    "id": "DOC-00004",
+    "title": "Bakım Sözleşme #4",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2024-10-01",
+    "sizeKb": 1039
+  },
+  {
+    "id": "DOC-00005",
+    "title": "Eğitim Rapor #5",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2025-12-08",
+    "sizeKb": 4966
+  },
+  {
+    "id": "DOC-00006",
+    "title": "Vergi Rapor #6",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2025-08-13",
+    "sizeKb": 463
+  },
+  {
+    "id": "DOC-00007",
+    "title": "Lojistik Form #7",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2023-07-22",
+    "sizeKb": 2230
+  },
+  {
+    "id": "DOC-00008",
+    "title": "Eğitim Form #8",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2025-10-19",
+    "sizeKb": 649
+  },
+  {
+    "id": "DOC-00009",
+    "title": "Bakım Sözleşme #9",
+    "category": "Sözleşme",
+    "owner": "Mehmet Demir",
+    "date": "2023-05-01",
+    "sizeKb": 2800
+  },
+  {
+    "id": "DOC-00010",
+    "title": "Q3 Operasyon Tutanak #10",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2025-05-05",
+    "sizeKb": 1114
+  },
+  {
+    "id": "DOC-00011",
+    "title": "Satış Performans Teklif #11",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-01-23",
+    "sizeKb": 4824
+  },
+  {
+    "id": "DOC-00012",
+    "title": "Müşteri Fatura #12",
+    "category": "Fatura",
+    "owner": "Mehmet Demir",
+    "date": "2024-07-07",
+    "sizeKb": 2668
+  },
+  {
+    "id": "DOC-00013",
+    "title": "Pazarlama Bordro #13",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2023-09-18",
+    "sizeKb": 2485
+  },
+  {
+    "id": "DOC-00014",
+    "title": "Aralık Ayı Tutanak #14",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2025-10-09",
+    "sizeKb": 1494
+  },
+  {
+    "id": "DOC-00015",
+    "title": "Tedarikçi Bordro #15",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-06-15",
+    "sizeKb": 2935
+  },
+  {
+    "id": "DOC-00016",
+    "title": "Yıllık Mali Rapor #16",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2024-10-17",
+    "sizeKb": 3530
+  },
+  {
+    "id": "DOC-00017",
+    "title": "İK Personel Sunum #17",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2023-06-06",
+    "sizeKb": 3994
+  },
+  {
+    "id": "DOC-00018",
+    "title": "Q3 Operasyon Form #18",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2025-04-19",
+    "sizeKb": 1411
+  },
+  {
+    "id": "DOC-00019",
+    "title": "Q3 Operasyon Sunum #19",
+    "category": "Sunum",
+    "owner": "Mehmet Demir",
+    "date": "2023-07-14",
+    "sizeKb": 385
+  },
+  {
+    "id": "DOC-00020",
+    "title": "Hukuk Sunum #20",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2025-10-27",
+    "sizeKb": 2578
+  },
+  {
+    "id": "DOC-00021",
+    "title": "Aralık Ayı Sunum #21",
+    "category": "Sunum",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-07-27",
+    "sizeKb": 3022
+  },
+  {
+    "id": "DOC-00022",
+    "title": "Hukuk Tutanak #22",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2023-12-21",
+    "sizeKb": 2752
+  },
+  {
+    "id": "DOC-00023",
+    "title": "Satış Performans Teklif #23",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2025-02-20",
+    "sizeKb": 463
+  },
+  {
+    "id": "DOC-00024",
+    "title": "Hukuk Sunum #24",
+    "category": "Sunum",
+    "owner": "Zeynep Kaya",
+    "date": "2024-10-14",
+    "sizeKb": 2325
+  },
+  {
+    "id": "DOC-00025",
+    "title": "Vergi Teklif #25",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2025-12-18",
+    "sizeKb": 406
+  },
+  {
+    "id": "DOC-00026",
+    "title": "Hukuk Rapor #26",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2023-04-14",
+    "sizeKb": 1970
+  },
+  {
+    "id": "DOC-00027",
+    "title": "Stok Sayım Tutanak #27",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2025-01-15",
+    "sizeKb": 4171
+  },
+  {
+    "id": "DOC-00028",
+    "title": "Bakım Rapor #28",
+    "category": "Rapor",
+    "owner": "Mert Çelik",
+    "date": "2023-11-28",
+    "sizeKb": 1073
+  },
+  {
+    "id": "DOC-00029",
+    "title": "Vergi Sunum #29",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2023-06-05",
+    "sizeKb": 1600
+  },
+  {
+    "id": "DOC-00030",
+    "title": "Bakım Sözleşme #30",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2025-04-19",
+    "sizeKb": 3078
+  },
+  {
+    "id": "DOC-00031",
+    "title": "Bütçe Onay Tutanak #31",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2023-06-18",
+    "sizeKb": 2370
+  },
+  {
+    "id": "DOC-00032",
+    "title": "Satış Performans Teklif #32",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2023-06-27",
+    "sizeKb": 4157
+  },
+  {
+    "id": "DOC-00033",
+    "title": "Bütçe Onay Sunum #33",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2023-04-20",
+    "sizeKb": 2516
+  },
+  {
+    "id": "DOC-00034",
+    "title": "Pazarlama Fatura #34",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2025-02-15",
+    "sizeKb": 2284
+  },
+  {
+    "id": "DOC-00035",
+    "title": "Vergi Bordro #35",
+    "category": "Bordro",
+    "owner": "Zeynep Kaya",
+    "date": "2025-09-17",
+    "sizeKb": 1834
+  },
+  {
+    "id": "DOC-00036",
+    "title": "Tedarikçi Sunum #36",
+    "category": "Sunum",
+    "owner": "Can Aydın",
+    "date": "2023-12-25",
+    "sizeKb": 4258
+  },
+  {
+    "id": "DOC-00037",
+    "title": "Q3 Operasyon Sözleşme #37",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2025-11-06",
+    "sizeKb": 4578
+  },
+  {
+    "id": "DOC-00038",
+    "title": "Hukuk Bordro #38",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2023-12-05",
+    "sizeKb": 2477
+  },
+  {
+    "id": "DOC-00039",
+    "title": "Bütçe Onay Sunum #39",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2024-08-11",
+    "sizeKb": 4675
+  },
+  {
+    "id": "DOC-00040",
+    "title": "Tedarikçi Bordro #40",
+    "category": "Bordro",
+    "owner": "Mert Çelik",
+    "date": "2024-09-23",
+    "sizeKb": 2970
+  },
+  {
+    "id": "DOC-00041",
+    "title": "Bütçe Onay Sözleşme #41",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-05-27",
+    "sizeKb": 4590
+  },
+  {
+    "id": "DOC-00042",
+    "title": "Satış Performans Rapor #42",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2025-10-15",
+    "sizeKb": 3075
+  },
+  {
+    "id": "DOC-00043",
+    "title": "Satış Performans Teklif #43",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2023-02-18",
+    "sizeKb": 954
+  },
+  {
+    "id": "DOC-00044",
+    "title": "Yıllık Mali Form #44",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2023-10-05",
+    "sizeKb": 4772
+  },
+  {
+    "id": "DOC-00045",
+    "title": "Q3 Operasyon Form #45",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2024-04-19",
+    "sizeKb": 1911
+  },
+  {
+    "id": "DOC-00046",
+    "title": "Stok Sayım Bordro #46",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2024-07-17",
+    "sizeKb": 1744
+  },
+  {
+    "id": "DOC-00047",
+    "title": "Hukuk Bordro #47",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2025-06-18",
+    "sizeKb": 775
+  },
+  {
+    "id": "DOC-00048",
+    "title": "Bütçe Onay Tutanak #48",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2025-09-19",
+    "sizeKb": 114
+  },
+  {
+    "id": "DOC-00049",
+    "title": "Stok Sayım Rapor #49",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2025-06-23",
+    "sizeKb": 1661
+  },
+  {
+    "id": "DOC-00050",
+    "title": "Bakım Form #50",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2025-01-22",
+    "sizeKb": 935
+  },
+  {
+    "id": "DOC-00051",
+    "title": "Pazarlama Rapor #51",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2024-11-08",
+    "sizeKb": 1888
+  },
+  {
+    "id": "DOC-00052",
+    "title": "Eğitim Bordro #52",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2024-10-10",
+    "sizeKb": 365
+  },
+  {
+    "id": "DOC-00053",
+    "title": "Müşteri Bordro #53",
+    "category": "Bordro",
+    "owner": "Mert Çelik",
+    "date": "2025-04-16",
+    "sizeKb": 3407
+  },
+  {
+    "id": "DOC-00054",
+    "title": "Hukuk Tutanak #54",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2024-01-11",
+    "sizeKb": 3611
+  },
+  {
+    "id": "DOC-00055",
+    "title": "Satış Performans Sunum #55",
+    "category": "Sunum",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-12-21",
+    "sizeKb": 3091
+  },
+  {
+    "id": "DOC-00056",
+    "title": "Satış Performans Bordro #56",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2025-02-14",
+    "sizeKb": 2503
+  },
+  {
+    "id": "DOC-00057",
+    "title": "Müşteri Bordro #57",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2023-03-28",
+    "sizeKb": 472
+  },
+  {
+    "id": "DOC-00058",
+    "title": "Satış Performans Bordro #58",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2023-05-26",
+    "sizeKb": 4083
+  },
+  {
+    "id": "DOC-00059",
+    "title": "Tedarikçi Fatura #59",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-03-19",
+    "sizeKb": 2119
+  },
+  {
+    "id": "DOC-00060",
+    "title": "Müşteri Teklif #60",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2025-10-07",
+    "sizeKb": 3919
+  },
+  {
+    "id": "DOC-00061",
+    "title": "Vergi Bordro #61",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2025-03-27",
+    "sizeKb": 4490
+  },
+  {
+    "id": "DOC-00062",
+    "title": "Satış Performans Form #62",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2025-03-24",
+    "sizeKb": 4696
+  },
+  {
+    "id": "DOC-00063",
+    "title": "Müşteri Sözleşme #63",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2023-08-13",
+    "sizeKb": 337
+  },
+  {
+    "id": "DOC-00064",
+    "title": "Vergi Sunum #64",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2024-11-09",
+    "sizeKb": 338
+  },
+  {
+    "id": "DOC-00065",
+    "title": "Bakım Form #65",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2024-07-05",
+    "sizeKb": 2955
+  },
+  {
+    "id": "DOC-00066",
+    "title": "Bütçe Onay Sunum #66",
+    "category": "Sunum",
+    "owner": "Can Aydın",
+    "date": "2024-05-07",
+    "sizeKb": 1147
+  },
+  {
+    "id": "DOC-00067",
+    "title": "Lojistik Fatura #67",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2023-08-06",
+    "sizeKb": 4754
+  },
+  {
+    "id": "DOC-00068",
+    "title": "Vergi Rapor #68",
+    "category": "Rapor",
+    "owner": "Mert Çelik",
+    "date": "2025-11-17",
+    "sizeKb": 992
+  },
+  {
+    "id": "DOC-00069",
+    "title": "İK Personel Form #69",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2023-10-02",
+    "sizeKb": 2867
+  },
+  {
+    "id": "DOC-00070",
+    "title": "Aralık Ayı Form #70",
+    "category": "Form",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-01-22",
+    "sizeKb": 1395
+  },
+  {
+    "id": "DOC-00071",
+    "title": "Bakım Bordro #71",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2024-04-20",
+    "sizeKb": 2967
+  },
+  {
+    "id": "DOC-00072",
+    "title": "İK Personel Sözleşme #72",
+    "category": "Sözleşme",
+    "owner": "Mehmet Demir",
+    "date": "2025-06-11",
+    "sizeKb": 1960
+  },
+  {
+    "id": "DOC-00073",
+    "title": "İK Personel Rapor #73",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2023-03-19",
+    "sizeKb": 2480
+  },
+  {
+    "id": "DOC-00074",
+    "title": "İK Personel Sözleşme #74",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2025-02-23",
+    "sizeKb": 279
+  },
+  {
+    "id": "DOC-00075",
+    "title": "Lojistik Teklif #75",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2023-03-01",
+    "sizeKb": 4827
+  },
+  {
+    "id": "DOC-00076",
+    "title": "Lojistik Rapor #76",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2024-04-10",
+    "sizeKb": 3933
+  },
+  {
+    "id": "DOC-00077",
+    "title": "Yıllık Mali Teklif #77",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2024-06-13",
+    "sizeKb": 340
+  },
+  {
+    "id": "DOC-00078",
+    "title": "Tedarikçi Bordro #78",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2023-03-07",
+    "sizeKb": 1446
+  },
+  {
+    "id": "DOC-00079",
+    "title": "Bütçe Onay Form #79",
+    "category": "Form",
+    "owner": "Selin Arslan",
+    "date": "2025-05-21",
+    "sizeKb": 1112
+  },
+  {
+    "id": "DOC-00080",
+    "title": "Bakım Sözleşme #80",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2023-04-05",
+    "sizeKb": 327
+  },
+  {
+    "id": "DOC-00081",
+    "title": "Q3 Operasyon Bordro #81",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2024-08-07",
+    "sizeKb": 3327
+  },
+  {
+    "id": "DOC-00082",
+    "title": "Bütçe Onay Form #82",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2024-01-25",
+    "sizeKb": 2952
+  },
+  {
+    "id": "DOC-00083",
+    "title": "Lojistik Sözleşme #83",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2023-05-16",
+    "sizeKb": 1333
+  },
+  {
+    "id": "DOC-00084",
+    "title": "Satış Performans Form #84",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2025-05-07",
+    "sizeKb": 2104
+  },
+  {
+    "id": "DOC-00085",
+    "title": "Bakım Teklif #85",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2023-12-06",
+    "sizeKb": 3442
+  },
+  {
+    "id": "DOC-00086",
+    "title": "Yıllık Mali Teklif #86",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2024-04-01",
+    "sizeKb": 949
+  },
+  {
+    "id": "DOC-00087",
+    "title": "Aralık Ayı Rapor #87",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2023-08-22",
+    "sizeKb": 3694
+  },
+  {
+    "id": "DOC-00088",
+    "title": "Stok Sayım Bordro #88",
+    "category": "Bordro",
+    "owner": "Can Aydın",
+    "date": "2025-10-07",
+    "sizeKb": 1854
+  },
+  {
+    "id": "DOC-00089",
+    "title": "Yıllık Mali Rapor #89",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2025-10-09",
+    "sizeKb": 3377
+  },
+  {
+    "id": "DOC-00090",
+    "title": "Q3 Operasyon Fatura #90",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2025-08-26",
+    "sizeKb": 2703
+  },
+  {
+    "id": "DOC-00091",
+    "title": "Tedarikçi Rapor #91",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2024-01-16",
+    "sizeKb": 525
+  },
+  {
+    "id": "DOC-00092",
+    "title": "Q3 Operasyon Rapor #92",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2023-02-24",
+    "sizeKb": 3824
+  },
+  {
+    "id": "DOC-00093",
+    "title": "Hukuk Sözleşme #93",
+    "category": "Sözleşme",
+    "owner": "Selin Arslan",
+    "date": "2025-11-12",
+    "sizeKb": 3348
+  },
+  {
+    "id": "DOC-00094",
+    "title": "Bakım Rapor #94",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2025-06-07",
+    "sizeKb": 1169
+  },
+  {
+    "id": "DOC-00095",
+    "title": "Vergi Teklif #95",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2025-06-01",
+    "sizeKb": 3939
+  },
+  {
+    "id": "DOC-00096",
+    "title": "Tedarikçi Form #96",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2024-09-27",
+    "sizeKb": 2379
+  },
+  {
+    "id": "DOC-00097",
+    "title": "Müşteri Sunum #97",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2024-09-24",
+    "sizeKb": 716
+  },
+  {
+    "id": "DOC-00098",
+    "title": "Eğitim Bordro #98",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2023-05-07",
+    "sizeKb": 631
+  },
+  {
+    "id": "DOC-00099",
+    "title": "Stok Sayım Fatura #99",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-03-07",
+    "sizeKb": 879
+  },
+  {
+    "id": "DOC-00100",
+    "title": "Eğitim Bordro #100",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2024-11-06",
+    "sizeKb": 3675
+  },
+  {
+    "id": "DOC-00101",
+    "title": "Yıllık Mali Sunum #101",
+    "category": "Sunum",
+    "owner": "Zeynep Kaya",
+    "date": "2024-01-13",
+    "sizeKb": 1754
+  },
+  {
+    "id": "DOC-00102",
+    "title": "Aralık Ayı Sözleşme #102",
+    "category": "Sözleşme",
+    "owner": "Mehmet Demir",
+    "date": "2024-02-22",
+    "sizeKb": 2215
+  },
+  {
+    "id": "DOC-00103",
+    "title": "Yıllık Mali Sunum #103",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2025-06-27",
+    "sizeKb": 2915
+  },
+  {
+    "id": "DOC-00104",
+    "title": "Stok Sayım Fatura #104",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2025-09-13",
+    "sizeKb": 4462
+  },
+  {
+    "id": "DOC-00105",
+    "title": "Tedarikçi Rapor #105",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2023-10-09",
+    "sizeKb": 4347
+  },
+  {
+    "id": "DOC-00106",
+    "title": "Q3 Operasyon Bordro #106",
+    "category": "Bordro",
+    "owner": "Can Aydın",
+    "date": "2024-02-27",
+    "sizeKb": 3319
+  },
+  {
+    "id": "DOC-00107",
+    "title": "Bakım Teklif #107",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2023-04-11",
+    "sizeKb": 2998
+  },
+  {
+    "id": "DOC-00108",
+    "title": "Aralık Ayı Tutanak #108",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-08-14",
+    "sizeKb": 1045
+  },
+  {
+    "id": "DOC-00109",
+    "title": "İK Personel Tutanak #109",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2024-03-11",
+    "sizeKb": 2479
+  },
+  {
+    "id": "DOC-00110",
+    "title": "Vergi Tutanak #110",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2025-10-16",
+    "sizeKb": 2245
+  },
+  {
+    "id": "DOC-00111",
+    "title": "Müşteri Sözleşme #111",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2023-08-12",
+    "sizeKb": 1559
+  },
+  {
+    "id": "DOC-00112",
+    "title": "Eğitim Sözleşme #112",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2024-05-10",
+    "sizeKb": 1980
+  },
+  {
+    "id": "DOC-00113",
+    "title": "Q3 Operasyon Sunum #113",
+    "category": "Sunum",
+    "owner": "Zeynep Kaya",
+    "date": "2024-02-04",
+    "sizeKb": 2322
+  },
+  {
+    "id": "DOC-00114",
+    "title": "Satış Performans Rapor #114",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2025-06-12",
+    "sizeKb": 4077
+  },
+  {
+    "id": "DOC-00115",
+    "title": "Satış Performans Form #115",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2024-08-02",
+    "sizeKb": 1638
+  },
+  {
+    "id": "DOC-00116",
+    "title": "Q3 Operasyon Rapor #116",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2025-06-01",
+    "sizeKb": 3754
+  },
+  {
+    "id": "DOC-00117",
+    "title": "Tedarikçi Form #117",
+    "category": "Form",
+    "owner": "Selin Arslan",
+    "date": "2023-09-06",
+    "sizeKb": 2162
+  },
+  {
+    "id": "DOC-00118",
+    "title": "Hukuk Bordro #118",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2025-11-15",
+    "sizeKb": 1018
+  },
+  {
+    "id": "DOC-00119",
+    "title": "Bakım Fatura #119",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-07-16",
+    "sizeKb": 1001
+  },
+  {
+    "id": "DOC-00120",
+    "title": "Eğitim Sunum #120",
+    "category": "Sunum",
+    "owner": "Can Aydın",
+    "date": "2024-10-05",
+    "sizeKb": 3289
+  },
+  {
+    "id": "DOC-00121",
+    "title": "Stok Sayım Teklif #121",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2023-04-04",
+    "sizeKb": 3749
+  },
+  {
+    "id": "DOC-00122",
+    "title": "Stok Sayım Teklif #122",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-08-03",
+    "sizeKb": 552
+  },
+  {
+    "id": "DOC-00123",
+    "title": "Bütçe Onay Rapor #123",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2023-12-12",
+    "sizeKb": 233
+  },
+  {
+    "id": "DOC-00124",
+    "title": "Q3 Operasyon Tutanak #124",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2024-12-04",
+    "sizeKb": 2511
+  },
+  {
+    "id": "DOC-00125",
+    "title": "Hukuk Tutanak #125",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2023-03-04",
+    "sizeKb": 3301
+  },
+  {
+    "id": "DOC-00126",
+    "title": "Lojistik Fatura #126",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2025-07-15",
+    "sizeKb": 2697
+  },
+  {
+    "id": "DOC-00127",
+    "title": "Eğitim Bordro #127",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-02-11",
+    "sizeKb": 141
+  },
+  {
+    "id": "DOC-00128",
+    "title": "Q3 Operasyon Tutanak #128",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2024-05-07",
+    "sizeKb": 3053
+  },
+  {
+    "id": "DOC-00129",
+    "title": "Satış Performans Form #129",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2024-04-01",
+    "sizeKb": 4521
+  },
+  {
+    "id": "DOC-00130",
+    "title": "İK Personel Teklif #130",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2024-06-18",
+    "sizeKb": 2965
+  },
+  {
+    "id": "DOC-00131",
+    "title": "Q3 Operasyon Form #131",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2025-03-17",
+    "sizeKb": 4940
+  },
+  {
+    "id": "DOC-00132",
+    "title": "Stok Sayım Fatura #132",
+    "category": "Fatura",
+    "owner": "Mert Çelik",
+    "date": "2025-02-04",
+    "sizeKb": 4738
+  },
+  {
+    "id": "DOC-00133",
+    "title": "Aralık Ayı Teklif #133",
+    "category": "Teklif",
+    "owner": "Mert Çelik",
+    "date": "2024-10-02",
+    "sizeKb": 1821
+  },
+  {
+    "id": "DOC-00134",
+    "title": "Lojistik Fatura #134",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2024-06-13",
+    "sizeKb": 2504
+  },
+  {
+    "id": "DOC-00135",
+    "title": "Müşteri Teklif #135",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2025-05-23",
+    "sizeKb": 2671
+  },
+  {
+    "id": "DOC-00136",
+    "title": "İK Personel Bordro #136",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2024-10-21",
+    "sizeKb": 2913
+  },
+  {
+    "id": "DOC-00137",
+    "title": "Tedarikçi Bordro #137",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-06-14",
+    "sizeKb": 1820
+  },
+  {
+    "id": "DOC-00138",
+    "title": "Hukuk Fatura #138",
+    "category": "Fatura",
+    "owner": "Can Aydın",
+    "date": "2023-08-14",
+    "sizeKb": 1195
+  },
+  {
+    "id": "DOC-00139",
+    "title": "Aralık Ayı Form #139",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2024-11-23",
+    "sizeKb": 2464
+  },
+  {
+    "id": "DOC-00140",
+    "title": "Q3 Operasyon Form #140",
+    "category": "Form",
+    "owner": "Zeynep Kaya",
+    "date": "2024-01-10",
+    "sizeKb": 1658
+  },
+  {
+    "id": "DOC-00141",
+    "title": "Aralık Ayı Teklif #141",
+    "category": "Teklif",
+    "owner": "Selin Arslan",
+    "date": "2024-10-04",
+    "sizeKb": 1717
+  },
+  {
+    "id": "DOC-00142",
+    "title": "Hukuk Sözleşme #142",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2025-01-10",
+    "sizeKb": 4712
+  },
+  {
+    "id": "DOC-00143",
+    "title": "Bakım Bordro #143",
+    "category": "Bordro",
+    "owner": "Zeynep Kaya",
+    "date": "2024-04-24",
+    "sizeKb": 292
+  },
+  {
+    "id": "DOC-00144",
+    "title": "Yıllık Mali Teklif #144",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-02-04",
+    "sizeKb": 4545
+  },
+  {
+    "id": "DOC-00145",
+    "title": "Tedarikçi Tutanak #145",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2025-05-12",
+    "sizeKb": 1938
+  },
+  {
+    "id": "DOC-00146",
+    "title": "Satış Performans Sözleşme #146",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2025-03-19",
+    "sizeKb": 3391
+  },
+  {
+    "id": "DOC-00147",
+    "title": "Hukuk Sunum #147",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2023-05-24",
+    "sizeKb": 4048
+  },
+  {
+    "id": "DOC-00148",
+    "title": "Bütçe Onay Sunum #148",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2024-05-10",
+    "sizeKb": 2014
+  },
+  {
+    "id": "DOC-00149",
+    "title": "Pazarlama Rapor #149",
+    "category": "Rapor",
+    "owner": "Mert Çelik",
+    "date": "2025-02-21",
+    "sizeKb": 3879
+  },
+  {
+    "id": "DOC-00150",
+    "title": "Yıllık Mali Tutanak #150",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-11-15",
+    "sizeKb": 3897
+  },
+  {
+    "id": "DOC-00151",
+    "title": "Tedarikçi Teklif #151",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2023-01-11",
+    "sizeKb": 2135
+  },
+  {
+    "id": "DOC-00152",
+    "title": "Pazarlama Fatura #152",
+    "category": "Fatura",
+    "owner": "Can Aydın",
+    "date": "2024-11-21",
+    "sizeKb": 4967
+  },
+  {
+    "id": "DOC-00153",
+    "title": "Satış Performans Sözleşme #153",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-09-18",
+    "sizeKb": 369
+  },
+  {
+    "id": "DOC-00154",
+    "title": "Pazarlama Form #154",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2024-10-25",
+    "sizeKb": 409
+  },
+  {
+    "id": "DOC-00155",
+    "title": "Stok Sayım Teklif #155",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-07-22",
+    "sizeKb": 4191
+  },
+  {
+    "id": "DOC-00156",
+    "title": "Satış Performans Teklif #156",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2024-07-24",
+    "sizeKb": 1738
+  },
+  {
+    "id": "DOC-00157",
+    "title": "Bütçe Onay Form #157",
+    "category": "Form",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-02-23",
+    "sizeKb": 3482
+  },
+  {
+    "id": "DOC-00158",
+    "title": "İK Personel Tutanak #158",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2025-10-06",
+    "sizeKb": 4934
+  },
+  {
+    "id": "DOC-00159",
+    "title": "İK Personel Rapor #159",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2023-04-22",
+    "sizeKb": 3530
+  },
+  {
+    "id": "DOC-00160",
+    "title": "Bakım Tutanak #160",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2023-04-24",
+    "sizeKb": 3837
+  },
+  {
+    "id": "DOC-00161",
+    "title": "Hukuk Tutanak #161",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2025-05-07",
+    "sizeKb": 523
+  },
+  {
+    "id": "DOC-00162",
+    "title": "Lojistik Fatura #162",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2025-09-24",
+    "sizeKb": 2191
+  },
+  {
+    "id": "DOC-00163",
+    "title": "Hukuk Fatura #163",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2024-01-28",
+    "sizeKb": 920
+  },
+  {
+    "id": "DOC-00164",
+    "title": "Müşteri Form #164",
+    "category": "Form",
+    "owner": "Zeynep Kaya",
+    "date": "2023-12-26",
+    "sizeKb": 884
+  },
+  {
+    "id": "DOC-00165",
+    "title": "Aralık Ayı Sunum #165",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2024-11-03",
+    "sizeKb": 954
+  },
+  {
+    "id": "DOC-00166",
+    "title": "Stok Sayım Form #166",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2025-12-09",
+    "sizeKb": 3403
+  },
+  {
+    "id": "DOC-00167",
+    "title": "Müşteri Bordro #167",
+    "category": "Bordro",
+    "owner": "Zeynep Kaya",
+    "date": "2025-02-04",
+    "sizeKb": 337
+  },
+  {
+    "id": "DOC-00168",
+    "title": "Tedarikçi Teklif #168",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2024-09-05",
+    "sizeKb": 3091
+  },
+  {
+    "id": "DOC-00169",
+    "title": "Q3 Operasyon Bordro #169",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-08-15",
+    "sizeKb": 1433
+  },
+  {
+    "id": "DOC-00170",
+    "title": "İK Personel Sunum #170",
+    "category": "Sunum",
+    "owner": "Mehmet Demir",
+    "date": "2024-12-06",
+    "sizeKb": 4270
+  },
+  {
+    "id": "DOC-00171",
+    "title": "Satış Performans Teklif #171",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2025-08-22",
+    "sizeKb": 3842
+  },
+  {
+    "id": "DOC-00172",
+    "title": "Bütçe Onay Tutanak #172",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2025-05-07",
+    "sizeKb": 3474
+  },
+  {
+    "id": "DOC-00173",
+    "title": "Müşteri Bordro #173",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2025-12-20",
+    "sizeKb": 3362
+  },
+  {
+    "id": "DOC-00174",
+    "title": "Stok Sayım Form #174",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2025-11-11",
+    "sizeKb": 4860
+  },
+  {
+    "id": "DOC-00175",
+    "title": "Bütçe Onay Rapor #175",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2025-06-24",
+    "sizeKb": 483
+  },
+  {
+    "id": "DOC-00176",
+    "title": "İK Personel Sunum #176",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2024-06-24",
+    "sizeKb": 3290
+  },
+  {
+    "id": "DOC-00177",
+    "title": "Eğitim Fatura #177",
+    "category": "Fatura",
+    "owner": "Mehmet Demir",
+    "date": "2023-09-18",
+    "sizeKb": 263
+  },
+  {
+    "id": "DOC-00178",
+    "title": "Müşteri Bordro #178",
+    "category": "Bordro",
+    "owner": "Zeynep Kaya",
+    "date": "2024-06-07",
+    "sizeKb": 785
+  },
+  {
+    "id": "DOC-00179",
+    "title": "Satış Performans Sözleşme #179",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2023-02-26",
+    "sizeKb": 1280
+  },
+  {
+    "id": "DOC-00180",
+    "title": "Stok Sayım Teklif #180",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2023-02-10",
+    "sizeKb": 4513
+  },
+  {
+    "id": "DOC-00181",
+    "title": "Aralık Ayı Fatura #181",
+    "category": "Fatura",
+    "owner": "Mehmet Demir",
+    "date": "2025-02-20",
+    "sizeKb": 1393
+  },
+  {
+    "id": "DOC-00182",
+    "title": "Pazarlama Rapor #182",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2024-09-28",
+    "sizeKb": 828
+  },
+  {
+    "id": "DOC-00183",
+    "title": "Satış Performans Sözleşme #183",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2023-05-24",
+    "sizeKb": 2769
+  },
+  {
+    "id": "DOC-00184",
+    "title": "Hukuk Sözleşme #184",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2025-04-02",
+    "sizeKb": 4556
+  },
+  {
+    "id": "DOC-00185",
+    "title": "Hukuk Teklif #185",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2025-12-11",
+    "sizeKb": 4344
+  },
+  {
+    "id": "DOC-00186",
+    "title": "Bütçe Onay Form #186",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2025-11-08",
+    "sizeKb": 404
+  },
+  {
+    "id": "DOC-00187",
+    "title": "Tedarikçi Bordro #187",
+    "category": "Bordro",
+    "owner": "Mert Çelik",
+    "date": "2025-07-07",
+    "sizeKb": 1938
+  },
+  {
+    "id": "DOC-00188",
+    "title": "Hukuk Bordro #188",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2023-09-14",
+    "sizeKb": 453
+  },
+  {
+    "id": "DOC-00189",
+    "title": "Satış Performans Sunum #189",
+    "category": "Sunum",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-08-03",
+    "sizeKb": 1974
+  },
+  {
+    "id": "DOC-00190",
+    "title": "Tedarikçi Sözleşme #190",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2024-05-13",
+    "sizeKb": 1260
+  },
+  {
+    "id": "DOC-00191",
+    "title": "Lojistik Sözleşme #191",
+    "category": "Sözleşme",
+    "owner": "Elif Şahin",
+    "date": "2023-09-03",
+    "sizeKb": 1125
+  },
+  {
+    "id": "DOC-00192",
+    "title": "Aralık Ayı Form #192",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2024-08-04",
+    "sizeKb": 4028
+  },
+  {
+    "id": "DOC-00193",
+    "title": "Bütçe Onay Rapor #193",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2023-02-10",
+    "sizeKb": 2047
+  },
+  {
+    "id": "DOC-00194",
+    "title": "Stok Sayım Tutanak #194",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2024-09-28",
+    "sizeKb": 2267
+  },
+  {
+    "id": "DOC-00195",
+    "title": "İK Personel Teklif #195",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2024-08-23",
+    "sizeKb": 4264
+  },
+  {
+    "id": "DOC-00196",
+    "title": "Tedarikçi Sözleşme #196",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2024-10-26",
+    "sizeKb": 4324
+  },
+  {
+    "id": "DOC-00197",
+    "title": "Müşteri Form #197",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2024-01-18",
+    "sizeKb": 2936
+  },
+  {
+    "id": "DOC-00198",
+    "title": "Tedarikçi Sözleşme #198",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2023-09-13",
+    "sizeKb": 4517
+  },
+  {
+    "id": "DOC-00199",
+    "title": "Müşteri Rapor #199",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2023-07-21",
+    "sizeKb": 3863
+  },
+  {
+    "id": "DOC-00200",
+    "title": "Eğitim Tutanak #200",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2025-12-15",
+    "sizeKb": 4428
+  },
+  {
+    "id": "DOC-00201",
+    "title": "Aralık Ayı Tutanak #201",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2025-07-23",
+    "sizeKb": 298
+  },
+  {
+    "id": "DOC-00202",
+    "title": "Vergi Rapor #202",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2024-10-03",
+    "sizeKb": 4286
+  },
+  {
+    "id": "DOC-00203",
+    "title": "Tedarikçi Fatura #203",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2023-03-12",
+    "sizeKb": 4742
+  },
+  {
+    "id": "DOC-00204",
+    "title": "Müşteri Tutanak #204",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2025-03-12",
+    "sizeKb": 2861
+  },
+  {
+    "id": "DOC-00205",
+    "title": "Lojistik Tutanak #205",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2023-02-23",
+    "sizeKb": 2471
+  },
+  {
+    "id": "DOC-00206",
+    "title": "Eğitim Fatura #206",
+    "category": "Fatura",
+    "owner": "Mehmet Demir",
+    "date": "2023-12-23",
+    "sizeKb": 4508
+  },
+  {
+    "id": "DOC-00207",
+    "title": "Satış Performans Form #207",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2023-02-21",
+    "sizeKb": 547
+  },
+  {
+    "id": "DOC-00208",
+    "title": "Eğitim Rapor #208",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2023-02-09",
+    "sizeKb": 893
+  },
+  {
+    "id": "DOC-00209",
+    "title": "Pazarlama Tutanak #209",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2024-07-23",
+    "sizeKb": 2423
+  },
+  {
+    "id": "DOC-00210",
+    "title": "Lojistik Tutanak #210",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2025-01-11",
+    "sizeKb": 1916
+  },
+  {
+    "id": "DOC-00211",
+    "title": "Tedarikçi Tutanak #211",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2023-05-22",
+    "sizeKb": 135
+  },
+  {
+    "id": "DOC-00212",
+    "title": "Vergi Sunum #212",
+    "category": "Sunum",
+    "owner": "Zeynep Kaya",
+    "date": "2025-01-06",
+    "sizeKb": 3986
+  },
+  {
+    "id": "DOC-00213",
+    "title": "Hukuk Fatura #213",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2023-03-02",
+    "sizeKb": 2561
+  },
+  {
+    "id": "DOC-00214",
+    "title": "Yıllık Mali Rapor #214",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-09-23",
+    "sizeKb": 4958
+  },
+  {
+    "id": "DOC-00215",
+    "title": "Stok Sayım Teklif #215",
+    "category": "Teklif",
+    "owner": "Selin Arslan",
+    "date": "2024-11-28",
+    "sizeKb": 1743
+  },
+  {
+    "id": "DOC-00216",
+    "title": "Müşteri Bordro #216",
+    "category": "Bordro",
+    "owner": "Mert Çelik",
+    "date": "2023-11-21",
+    "sizeKb": 3392
+  },
+  {
+    "id": "DOC-00217",
+    "title": "Lojistik Bordro #217",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2023-12-03",
+    "sizeKb": 1449
+  },
+  {
+    "id": "DOC-00218",
+    "title": "Satış Performans Bordro #218",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2024-01-08",
+    "sizeKb": 2402
+  },
+  {
+    "id": "DOC-00219",
+    "title": "Hukuk Sözleşme #219",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2024-02-12",
+    "sizeKb": 4713
+  },
+  {
+    "id": "DOC-00220",
+    "title": "Bakım Teklif #220",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-09-28",
+    "sizeKb": 3121
+  },
+  {
+    "id": "DOC-00221",
+    "title": "Vergi Fatura #221",
+    "category": "Fatura",
+    "owner": "Mert Çelik",
+    "date": "2023-05-17",
+    "sizeKb": 2356
+  },
+  {
+    "id": "DOC-00222",
+    "title": "Stok Sayım Sözleşme #222",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2023-12-25",
+    "sizeKb": 1164
+  },
+  {
+    "id": "DOC-00223",
+    "title": "Vergi Teklif #223",
+    "category": "Teklif",
+    "owner": "Mert Çelik",
+    "date": "2023-07-04",
+    "sizeKb": 228
+  },
+  {
+    "id": "DOC-00224",
+    "title": "Pazarlama Fatura #224",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2025-10-12",
+    "sizeKb": 3896
+  },
+  {
+    "id": "DOC-00225",
+    "title": "Bakım Tutanak #225",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2023-05-12",
+    "sizeKb": 4715
+  },
+  {
+    "id": "DOC-00226",
+    "title": "Bütçe Onay Fatura #226",
+    "category": "Fatura",
+    "owner": "Can Aydın",
+    "date": "2024-04-13",
+    "sizeKb": 4847
+  },
+  {
+    "id": "DOC-00227",
+    "title": "İK Personel Tutanak #227",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2025-11-26",
+    "sizeKb": 2991
+  },
+  {
+    "id": "DOC-00228",
+    "title": "Vergi Rapor #228",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2024-11-09",
+    "sizeKb": 1185
+  },
+  {
+    "id": "DOC-00229",
+    "title": "Müşteri Fatura #229",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2023-07-03",
+    "sizeKb": 2097
+  },
+  {
+    "id": "DOC-00230",
+    "title": "Yıllık Mali Sözleşme #230",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-09-16",
+    "sizeKb": 1083
+  },
+  {
+    "id": "DOC-00231",
+    "title": "Tedarikçi Tutanak #231",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2023-11-22",
+    "sizeKb": 3048
+  },
+  {
+    "id": "DOC-00232",
+    "title": "Q3 Operasyon Tutanak #232",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2023-11-25",
+    "sizeKb": 4569
+  },
+  {
+    "id": "DOC-00233",
+    "title": "Hukuk Form #233",
+    "category": "Form",
+    "owner": "Zeynep Kaya",
+    "date": "2023-01-04",
+    "sizeKb": 1113
+  },
+  {
+    "id": "DOC-00234",
+    "title": "Tedarikçi Teklif #234",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2023-01-19",
+    "sizeKb": 1275
+  },
+  {
+    "id": "DOC-00235",
+    "title": "İK Personel Form #235",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2023-04-03",
+    "sizeKb": 3038
+  },
+  {
+    "id": "DOC-00236",
+    "title": "Lojistik Fatura #236",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-01-21",
+    "sizeKb": 2161
+  },
+  {
+    "id": "DOC-00237",
+    "title": "Satış Performans Form #237",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2023-11-18",
+    "sizeKb": 2893
+  },
+  {
+    "id": "DOC-00238",
+    "title": "Bütçe Onay Form #238",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2024-02-16",
+    "sizeKb": 1458
+  },
+  {
+    "id": "DOC-00239",
+    "title": "Bütçe Onay Teklif #239",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2025-05-19",
+    "sizeKb": 4443
+  },
+  {
+    "id": "DOC-00240",
+    "title": "Aralık Ayı Rapor #240",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2025-04-25",
+    "sizeKb": 3478
+  },
+  {
+    "id": "DOC-00241",
+    "title": "Bakım Sözleşme #241",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2025-03-06",
+    "sizeKb": 1009
+  },
+  {
+    "id": "DOC-00242",
+    "title": "Tedarikçi Sözleşme #242",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2025-01-23",
+    "sizeKb": 3353
+  },
+  {
+    "id": "DOC-00243",
+    "title": "Bakım Form #243",
+    "category": "Form",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-10-22",
+    "sizeKb": 3520
+  },
+  {
+    "id": "DOC-00244",
+    "title": "Aralık Ayı Form #244",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2023-11-19",
+    "sizeKb": 324
+  },
+  {
+    "id": "DOC-00245",
+    "title": "Pazarlama Form #245",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2024-11-02",
+    "sizeKb": 1395
+  },
+  {
+    "id": "DOC-00246",
+    "title": "Bakım Fatura #246",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2025-02-12",
+    "sizeKb": 2797
+  },
+  {
+    "id": "DOC-00247",
+    "title": "Lojistik Teklif #247",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2024-10-12",
+    "sizeKb": 2704
+  },
+  {
+    "id": "DOC-00248",
+    "title": "Pazarlama Bordro #248",
+    "category": "Bordro",
+    "owner": "Can Aydın",
+    "date": "2023-07-03",
+    "sizeKb": 1487
+  },
+  {
+    "id": "DOC-00249",
+    "title": "Tedarikçi Sözleşme #249",
+    "category": "Sözleşme",
+    "owner": "Mert Çelik",
+    "date": "2025-12-07",
+    "sizeKb": 3065
+  },
+  {
+    "id": "DOC-00250",
+    "title": "Lojistik Teklif #250",
+    "category": "Teklif",
+    "owner": "Mert Çelik",
+    "date": "2024-03-12",
+    "sizeKb": 2379
+  },
+  {
+    "id": "DOC-00251",
+    "title": "İK Personel Rapor #251",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2025-02-16",
+    "sizeKb": 3390
+  },
+  {
+    "id": "DOC-00252",
+    "title": "Bütçe Onay Sözleşme #252",
+    "category": "Sözleşme",
+    "owner": "Selin Arslan",
+    "date": "2023-10-23",
+    "sizeKb": 849
+  },
+  {
+    "id": "DOC-00253",
+    "title": "Vergi Sunum #253",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2025-10-13",
+    "sizeKb": 3687
+  },
+  {
+    "id": "DOC-00254",
+    "title": "Müşteri Sunum #254",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2025-09-02",
+    "sizeKb": 2288
+  },
+  {
+    "id": "DOC-00255",
+    "title": "Bütçe Onay Sözleşme #255",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2024-11-05",
+    "sizeKb": 4616
+  },
+  {
+    "id": "DOC-00256",
+    "title": "Q3 Operasyon Teklif #256",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2024-12-23",
+    "sizeKb": 1628
+  },
+  {
+    "id": "DOC-00257",
+    "title": "Aralık Ayı Tutanak #257",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2025-12-02",
+    "sizeKb": 4200
+  },
+  {
+    "id": "DOC-00258",
+    "title": "Satış Performans Tutanak #258",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2025-12-13",
+    "sizeKb": 1264
+  },
+  {
+    "id": "DOC-00259",
+    "title": "Eğitim Sözleşme #259",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-06-02",
+    "sizeKb": 3091
+  },
+  {
+    "id": "DOC-00260",
+    "title": "Eğitim Tutanak #260",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2024-06-06",
+    "sizeKb": 4097
+  },
+  {
+    "id": "DOC-00261",
+    "title": "Müşteri Form #261",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2024-06-06",
+    "sizeKb": 606
+  },
+  {
+    "id": "DOC-00262",
+    "title": "Q3 Operasyon Fatura #262",
+    "category": "Fatura",
+    "owner": "Mehmet Demir",
+    "date": "2024-02-10",
+    "sizeKb": 4074
+  },
+  {
+    "id": "DOC-00263",
+    "title": "Bütçe Onay Tutanak #263",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2023-07-06",
+    "sizeKb": 3289
+  },
+  {
+    "id": "DOC-00264",
+    "title": "Tedarikçi Fatura #264",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2025-07-13",
+    "sizeKb": 652
+  },
+  {
+    "id": "DOC-00265",
+    "title": "Müşteri Sözleşme #265",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2025-01-17",
+    "sizeKb": 1401
+  },
+  {
+    "id": "DOC-00266",
+    "title": "Bakım Sunum #266",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2024-06-05",
+    "sizeKb": 1216
+  },
+  {
+    "id": "DOC-00267",
+    "title": "Eğitim Tutanak #267",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2023-11-05",
+    "sizeKb": 890
+  },
+  {
+    "id": "DOC-00268",
+    "title": "Aralık Ayı Teklif #268",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2025-07-25",
+    "sizeKb": 2989
+  },
+  {
+    "id": "DOC-00269",
+    "title": "Müşteri Fatura #269",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-12-03",
+    "sizeKb": 1995
+  },
+  {
+    "id": "DOC-00270",
+    "title": "Aralık Ayı Bordro #270",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2023-03-15",
+    "sizeKb": 2139
+  },
+  {
+    "id": "DOC-00271",
+    "title": "Bütçe Onay Rapor #271",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2023-06-18",
+    "sizeKb": 2157
+  },
+  {
+    "id": "DOC-00272",
+    "title": "Bakım Teklif #272",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2025-04-01",
+    "sizeKb": 1671
+  },
+  {
+    "id": "DOC-00273",
+    "title": "Vergi Fatura #273",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2023-10-02",
+    "sizeKb": 3671
+  },
+  {
+    "id": "DOC-00274",
+    "title": "Stok Sayım Fatura #274",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2025-08-03",
+    "sizeKb": 233
+  },
+  {
+    "id": "DOC-00275",
+    "title": "Eğitim Bordro #275",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2023-04-22",
+    "sizeKb": 3420
+  },
+  {
+    "id": "DOC-00276",
+    "title": "Satış Performans Fatura #276",
+    "category": "Fatura",
+    "owner": "Mehmet Demir",
+    "date": "2024-06-28",
+    "sizeKb": 1445
+  },
+  {
+    "id": "DOC-00277",
+    "title": "Stok Sayım Form #277",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2025-03-07",
+    "sizeKb": 4141
+  },
+  {
+    "id": "DOC-00278",
+    "title": "Bakım Form #278",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2023-08-19",
+    "sizeKb": 1819
+  },
+  {
+    "id": "DOC-00279",
+    "title": "Satış Performans Sözleşme #279",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2023-12-03",
+    "sizeKb": 3728
+  },
+  {
+    "id": "DOC-00280",
+    "title": "Q3 Operasyon Form #280",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2023-01-09",
+    "sizeKb": 4983
+  },
+  {
+    "id": "DOC-00281",
+    "title": "Tedarikçi Rapor #281",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2025-11-11",
+    "sizeKb": 1024
+  },
+  {
+    "id": "DOC-00282",
+    "title": "Müşteri Fatura #282",
+    "category": "Fatura",
+    "owner": "Mert Çelik",
+    "date": "2025-07-04",
+    "sizeKb": 2942
+  },
+  {
+    "id": "DOC-00283",
+    "title": "İK Personel Bordro #283",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-05-08",
+    "sizeKb": 374
+  },
+  {
+    "id": "DOC-00284",
+    "title": "İK Personel Tutanak #284",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2025-08-14",
+    "sizeKb": 4201
+  },
+  {
+    "id": "DOC-00285",
+    "title": "Vergi Fatura #285",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2023-09-21",
+    "sizeKb": 2911
+  },
+  {
+    "id": "DOC-00286",
+    "title": "Bakım Sözleşme #286",
+    "category": "Sözleşme",
+    "owner": "Elif Şahin",
+    "date": "2024-12-25",
+    "sizeKb": 1781
+  },
+  {
+    "id": "DOC-00287",
+    "title": "Bakım Sunum #287",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2025-11-10",
+    "sizeKb": 2050
+  },
+  {
+    "id": "DOC-00288",
+    "title": "Eğitim Teklif #288",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2023-12-28",
+    "sizeKb": 2917
+  },
+  {
+    "id": "DOC-00289",
+    "title": "Tedarikçi Rapor #289",
+    "category": "Rapor",
+    "owner": "Mert Çelik",
+    "date": "2024-07-16",
+    "sizeKb": 2629
+  },
+  {
+    "id": "DOC-00290",
+    "title": "Müşteri Sunum #290",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2023-09-06",
+    "sizeKb": 2285
+  },
+  {
+    "id": "DOC-00291",
+    "title": "Stok Sayım Sunum #291",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2025-09-15",
+    "sizeKb": 325
+  },
+  {
+    "id": "DOC-00292",
+    "title": "İK Personel Form #292",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2025-04-24",
+    "sizeKb": 4540
+  },
+  {
+    "id": "DOC-00293",
+    "title": "İK Personel Fatura #293",
+    "category": "Fatura",
+    "owner": "Can Aydın",
+    "date": "2025-02-22",
+    "sizeKb": 2314
+  },
+  {
+    "id": "DOC-00294",
+    "title": "İK Personel Fatura #294",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-05-18",
+    "sizeKb": 1923
+  },
+  {
+    "id": "DOC-00295",
+    "title": "Lojistik Tutanak #295",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2024-01-16",
+    "sizeKb": 4962
+  },
+  {
+    "id": "DOC-00296",
+    "title": "Bakım Fatura #296",
+    "category": "Fatura",
+    "owner": "Mert Çelik",
+    "date": "2023-06-25",
+    "sizeKb": 2829
+  },
+  {
+    "id": "DOC-00297",
+    "title": "İK Personel Form #297",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2025-05-09",
+    "sizeKb": 2446
+  },
+  {
+    "id": "DOC-00298",
+    "title": "Satış Performans Teklif #298",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-08-19",
+    "sizeKb": 3488
+  },
+  {
+    "id": "DOC-00299",
+    "title": "Müşteri Rapor #299",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2024-08-27",
+    "sizeKb": 3390
+  },
+  {
+    "id": "DOC-00300",
+    "title": "Bütçe Onay Teklif #300",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2024-09-28",
+    "sizeKb": 760
+  },
+  {
+    "id": "DOC-00301",
+    "title": "Bütçe Onay Tutanak #301",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-05-01",
+    "sizeKb": 3520
+  },
+  {
+    "id": "DOC-00302",
+    "title": "Eğitim Form #302",
+    "category": "Form",
+    "owner": "Selin Arslan",
+    "date": "2023-10-01",
+    "sizeKb": 3103
+  },
+  {
+    "id": "DOC-00303",
+    "title": "Lojistik Rapor #303",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-05-07",
+    "sizeKb": 4451
+  },
+  {
+    "id": "DOC-00304",
+    "title": "Eğitim Bordro #304",
+    "category": "Bordro",
+    "owner": "Mert Çelik",
+    "date": "2024-11-15",
+    "sizeKb": 4764
+  },
+  {
+    "id": "DOC-00305",
+    "title": "Lojistik Tutanak #305",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2025-01-17",
+    "sizeKb": 860
+  },
+  {
+    "id": "DOC-00306",
+    "title": "Bütçe Onay Fatura #306",
+    "category": "Fatura",
+    "owner": "Can Aydın",
+    "date": "2024-06-15",
+    "sizeKb": 2072
+  },
+  {
+    "id": "DOC-00307",
+    "title": "Müşteri Rapor #307",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-05-21",
+    "sizeKb": 2555
+  },
+  {
+    "id": "DOC-00308",
+    "title": "Hukuk Teklif #308",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2023-01-27",
+    "sizeKb": 4301
+  },
+  {
+    "id": "DOC-00309",
+    "title": "Aralık Ayı Fatura #309",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2025-03-14",
+    "sizeKb": 4954
+  },
+  {
+    "id": "DOC-00310",
+    "title": "Eğitim Bordro #310",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-01-27",
+    "sizeKb": 3593
+  },
+  {
+    "id": "DOC-00311",
+    "title": "Stok Sayım Sunum #311",
+    "category": "Sunum",
+    "owner": "Can Aydın",
+    "date": "2024-10-18",
+    "sizeKb": 896
+  },
+  {
+    "id": "DOC-00312",
+    "title": "Satış Performans Bordro #312",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-09-14",
+    "sizeKb": 1487
+  },
+  {
+    "id": "DOC-00313",
+    "title": "Hukuk Teklif #313",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2024-06-13",
+    "sizeKb": 3504
+  },
+  {
+    "id": "DOC-00314",
+    "title": "Aralık Ayı Fatura #314",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2024-03-27",
+    "sizeKb": 1738
+  },
+  {
+    "id": "DOC-00315",
+    "title": "Q3 Operasyon Fatura #315",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2023-08-28",
+    "sizeKb": 4337
+  },
+  {
+    "id": "DOC-00316",
+    "title": "Hukuk Sunum #316",
+    "category": "Sunum",
+    "owner": "Zeynep Kaya",
+    "date": "2025-11-23",
+    "sizeKb": 1113
+  },
+  {
+    "id": "DOC-00317",
+    "title": "Hukuk Sunum #317",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2024-08-19",
+    "sizeKb": 2990
+  },
+  {
+    "id": "DOC-00318",
+    "title": "İK Personel Fatura #318",
+    "category": "Fatura",
+    "owner": "Mehmet Demir",
+    "date": "2025-06-12",
+    "sizeKb": 1018
+  },
+  {
+    "id": "DOC-00319",
+    "title": "Yıllık Mali Rapor #319",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2024-08-04",
+    "sizeKb": 3613
+  },
+  {
+    "id": "DOC-00320",
+    "title": "Lojistik Form #320",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2025-10-12",
+    "sizeKb": 3891
+  },
+  {
+    "id": "DOC-00321",
+    "title": "Müşteri Sözleşme #321",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2024-11-19",
+    "sizeKb": 4510
+  },
+  {
+    "id": "DOC-00322",
+    "title": "İK Personel Tutanak #322",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2025-02-24",
+    "sizeKb": 4426
+  },
+  {
+    "id": "DOC-00323",
+    "title": "Yıllık Mali Sunum #323",
+    "category": "Sunum",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-05-24",
+    "sizeKb": 2016
+  },
+  {
+    "id": "DOC-00324",
+    "title": "Stok Sayım Sözleşme #324",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2025-05-07",
+    "sizeKb": 3263
+  },
+  {
+    "id": "DOC-00325",
+    "title": "Tedarikçi Sözleşme #325",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2023-01-09",
+    "sizeKb": 1721
+  },
+  {
+    "id": "DOC-00326",
+    "title": "Lojistik Sunum #326",
+    "category": "Sunum",
+    "owner": "Can Aydın",
+    "date": "2023-07-25",
+    "sizeKb": 2743
+  },
+  {
+    "id": "DOC-00327",
+    "title": "Bakım Form #327",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2024-12-19",
+    "sizeKb": 2790
+  },
+  {
+    "id": "DOC-00328",
+    "title": "Müşteri Sunum #328",
+    "category": "Sunum",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-04-05",
+    "sizeKb": 1120
+  },
+  {
+    "id": "DOC-00329",
+    "title": "Bakım Fatura #329",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2024-03-10",
+    "sizeKb": 4800
+  },
+  {
+    "id": "DOC-00330",
+    "title": "Lojistik Fatura #330",
+    "category": "Fatura",
+    "owner": "Can Aydın",
+    "date": "2025-10-10",
+    "sizeKb": 1509
+  },
+  {
+    "id": "DOC-00331",
+    "title": "Hukuk Tutanak #331",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2024-04-27",
+    "sizeKb": 731
+  },
+  {
+    "id": "DOC-00332",
+    "title": "Yıllık Mali Form #332",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2023-05-28",
+    "sizeKb": 548
+  },
+  {
+    "id": "DOC-00333",
+    "title": "Aralık Ayı Rapor #333",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2025-12-04",
+    "sizeKb": 4963
+  },
+  {
+    "id": "DOC-00334",
+    "title": "Müşteri Form #334",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2023-02-18",
+    "sizeKb": 1497
+  },
+  {
+    "id": "DOC-00335",
+    "title": "Eğitim Sözleşme #335",
+    "category": "Sözleşme",
+    "owner": "Elif Şahin",
+    "date": "2025-04-12",
+    "sizeKb": 522
+  },
+  {
+    "id": "DOC-00336",
+    "title": "Stok Sayım Tutanak #336",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2025-09-09",
+    "sizeKb": 737
+  },
+  {
+    "id": "DOC-00337",
+    "title": "Bütçe Onay Teklif #337",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2024-04-23",
+    "sizeKb": 2143
+  },
+  {
+    "id": "DOC-00338",
+    "title": "Stok Sayım Sunum #338",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2023-03-13",
+    "sizeKb": 703
+  },
+  {
+    "id": "DOC-00339",
+    "title": "Lojistik Sunum #339",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2025-11-13",
+    "sizeKb": 1948
+  },
+  {
+    "id": "DOC-00340",
+    "title": "Lojistik Fatura #340",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-08-02",
+    "sizeKb": 2174
+  },
+  {
+    "id": "DOC-00341",
+    "title": "İK Personel Fatura #341",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2023-07-03",
+    "sizeKb": 4071
+  },
+  {
+    "id": "DOC-00342",
+    "title": "Eğitim Sözleşme #342",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-11-10",
+    "sizeKb": 4199
+  },
+  {
+    "id": "DOC-00343",
+    "title": "Bütçe Onay Fatura #343",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2025-01-11",
+    "sizeKb": 4270
+  },
+  {
+    "id": "DOC-00344",
+    "title": "İK Personel Fatura #344",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2025-09-22",
+    "sizeKb": 3481
+  },
+  {
+    "id": "DOC-00345",
+    "title": "Vergi Fatura #345",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2024-09-07",
+    "sizeKb": 3189
+  },
+  {
+    "id": "DOC-00346",
+    "title": "İK Personel Bordro #346",
+    "category": "Bordro",
+    "owner": "Mert Çelik",
+    "date": "2023-04-11",
+    "sizeKb": 4197
+  },
+  {
+    "id": "DOC-00347",
+    "title": "Aralık Ayı Rapor #347",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2024-04-19",
+    "sizeKb": 416
+  },
+  {
+    "id": "DOC-00348",
+    "title": "Vergi Sözleşme #348",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-03-27",
+    "sizeKb": 3231
+  },
+  {
+    "id": "DOC-00349",
+    "title": "Bütçe Onay Form #349",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2024-02-25",
+    "sizeKb": 4986
+  },
+  {
+    "id": "DOC-00350",
+    "title": "Hukuk Form #350",
+    "category": "Form",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-09-24",
+    "sizeKb": 4857
+  },
+  {
+    "id": "DOC-00351",
+    "title": "Yıllık Mali Bordro #351",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2024-07-18",
+    "sizeKb": 4032
+  },
+  {
+    "id": "DOC-00352",
+    "title": "İK Personel Sunum #352",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2023-06-11",
+    "sizeKb": 1521
+  },
+  {
+    "id": "DOC-00353",
+    "title": "Müşteri Fatura #353",
+    "category": "Fatura",
+    "owner": "Mert Çelik",
+    "date": "2025-12-09",
+    "sizeKb": 840
+  },
+  {
+    "id": "DOC-00354",
+    "title": "Vergi Bordro #354",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2024-02-26",
+    "sizeKb": 1313
+  },
+  {
+    "id": "DOC-00355",
+    "title": "Yıllık Mali Form #355",
+    "category": "Form",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-05-13",
+    "sizeKb": 2189
+  },
+  {
+    "id": "DOC-00356",
+    "title": "Lojistik Teklif #356",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2025-11-09",
+    "sizeKb": 3967
+  },
+  {
+    "id": "DOC-00357",
+    "title": "Yıllık Mali Rapor #357",
+    "category": "Rapor",
+    "owner": "Mert Çelik",
+    "date": "2023-10-28",
+    "sizeKb": 2059
+  },
+  {
+    "id": "DOC-00358",
+    "title": "Hukuk Rapor #358",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2024-11-25",
+    "sizeKb": 2225
+  },
+  {
+    "id": "DOC-00359",
+    "title": "Q3 Operasyon Form #359",
+    "category": "Form",
+    "owner": "Zeynep Kaya",
+    "date": "2025-09-07",
+    "sizeKb": 1430
+  },
+  {
+    "id": "DOC-00360",
+    "title": "Bakım Tutanak #360",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-08-13",
+    "sizeKb": 3014
+  },
+  {
+    "id": "DOC-00361",
+    "title": "İK Personel Rapor #361",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2025-02-25",
+    "sizeKb": 1135
+  },
+  {
+    "id": "DOC-00362",
+    "title": "Stok Sayım Fatura #362",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2024-09-03",
+    "sizeKb": 1331
+  },
+  {
+    "id": "DOC-00363",
+    "title": "Pazarlama Form #363",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2023-08-09",
+    "sizeKb": 2636
+  },
+  {
+    "id": "DOC-00364",
+    "title": "Vergi Tutanak #364",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2024-09-25",
+    "sizeKb": 4831
+  },
+  {
+    "id": "DOC-00365",
+    "title": "Satış Performans Rapor #365",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2023-01-15",
+    "sizeKb": 4283
+  },
+  {
+    "id": "DOC-00366",
+    "title": "Stok Sayım Sunum #366",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2024-10-09",
+    "sizeKb": 3437
+  },
+  {
+    "id": "DOC-00367",
+    "title": "Eğitim Sunum #367",
+    "category": "Sunum",
+    "owner": "Can Aydın",
+    "date": "2023-06-08",
+    "sizeKb": 3528
+  },
+  {
+    "id": "DOC-00368",
+    "title": "Müşteri Rapor #368",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2025-07-04",
+    "sizeKb": 4471
+  },
+  {
+    "id": "DOC-00369",
+    "title": "Lojistik Sunum #369",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2025-06-26",
+    "sizeKb": 538
+  },
+  {
+    "id": "DOC-00370",
+    "title": "Eğitim Tutanak #370",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2024-06-20",
+    "sizeKb": 2385
+  },
+  {
+    "id": "DOC-00371",
+    "title": "Müşteri Rapor #371",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2025-05-16",
+    "sizeKb": 1113
+  },
+  {
+    "id": "DOC-00372",
+    "title": "Müşteri Tutanak #372",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-12-28",
+    "sizeKb": 1393
+  },
+  {
+    "id": "DOC-00373",
+    "title": "Bakım Tutanak #373",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2023-01-19",
+    "sizeKb": 4387
+  },
+  {
+    "id": "DOC-00374",
+    "title": "Stok Sayım Form #374",
+    "category": "Form",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-04-10",
+    "sizeKb": 1553
+  },
+  {
+    "id": "DOC-00375",
+    "title": "Müşteri Sözleşme #375",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-07-18",
+    "sizeKb": 1552
+  },
+  {
+    "id": "DOC-00376",
+    "title": "Müşteri Rapor #376",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2025-12-16",
+    "sizeKb": 3018
+  },
+  {
+    "id": "DOC-00377",
+    "title": "İK Personel Tutanak #377",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2023-06-08",
+    "sizeKb": 2414
+  },
+  {
+    "id": "DOC-00378",
+    "title": "Satış Performans Form #378",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2025-03-14",
+    "sizeKb": 832
+  },
+  {
+    "id": "DOC-00379",
+    "title": "Stok Sayım Rapor #379",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2025-06-01",
+    "sizeKb": 2170
+  },
+  {
+    "id": "DOC-00380",
+    "title": "Lojistik Fatura #380",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2023-10-25",
+    "sizeKb": 1922
+  },
+  {
+    "id": "DOC-00381",
+    "title": "Satış Performans Tutanak #381",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2023-07-07",
+    "sizeKb": 4522
+  },
+  {
+    "id": "DOC-00382",
+    "title": "Tedarikçi Fatura #382",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2023-04-26",
+    "sizeKb": 631
+  },
+  {
+    "id": "DOC-00383",
+    "title": "Hukuk Sözleşme #383",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2024-09-03",
+    "sizeKb": 3561
+  },
+  {
+    "id": "DOC-00384",
+    "title": "Satış Performans Rapor #384",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2024-01-06",
+    "sizeKb": 3958
+  },
+  {
+    "id": "DOC-00385",
+    "title": "Hukuk Bordro #385",
+    "category": "Bordro",
+    "owner": "Zeynep Kaya",
+    "date": "2024-03-05",
+    "sizeKb": 4433
+  },
+  {
+    "id": "DOC-00386",
+    "title": "Bakım Fatura #386",
+    "category": "Fatura",
+    "owner": "Mert Çelik",
+    "date": "2024-11-16",
+    "sizeKb": 3198
+  },
+  {
+    "id": "DOC-00387",
+    "title": "Q3 Operasyon Fatura #387",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2025-08-26",
+    "sizeKb": 4659
+  },
+  {
+    "id": "DOC-00388",
+    "title": "Bütçe Onay Sözleşme #388",
+    "category": "Sözleşme",
+    "owner": "Elif Şahin",
+    "date": "2025-12-09",
+    "sizeKb": 273
+  },
+  {
+    "id": "DOC-00389",
+    "title": "Hukuk Fatura #389",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2024-09-22",
+    "sizeKb": 1590
+  },
+  {
+    "id": "DOC-00390",
+    "title": "Pazarlama Fatura #390",
+    "category": "Fatura",
+    "owner": "Mert Çelik",
+    "date": "2024-01-02",
+    "sizeKb": 1061
+  },
+  {
+    "id": "DOC-00391",
+    "title": "Lojistik Teklif #391",
+    "category": "Teklif",
+    "owner": "Selin Arslan",
+    "date": "2023-04-14",
+    "sizeKb": 2033
+  },
+  {
+    "id": "DOC-00392",
+    "title": "Lojistik Rapor #392",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-12-11",
+    "sizeKb": 881
+  },
+  {
+    "id": "DOC-00393",
+    "title": "Aralık Ayı Teklif #393",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2025-04-08",
+    "sizeKb": 2951
+  },
+  {
+    "id": "DOC-00394",
+    "title": "Pazarlama Rapor #394",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2023-10-24",
+    "sizeKb": 2694
+  },
+  {
+    "id": "DOC-00395",
+    "title": "Tedarikçi Teklif #395",
+    "category": "Teklif",
+    "owner": "Mert Çelik",
+    "date": "2023-06-09",
+    "sizeKb": 3872
+  },
+  {
+    "id": "DOC-00396",
+    "title": "Bütçe Onay Teklif #396",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2024-04-27",
+    "sizeKb": 1808
+  },
+  {
+    "id": "DOC-00397",
+    "title": "Lojistik Form #397",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2024-06-11",
+    "sizeKb": 4951
+  },
+  {
+    "id": "DOC-00398",
+    "title": "Vergi Sunum #398",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2025-04-03",
+    "sizeKb": 3988
+  },
+  {
+    "id": "DOC-00399",
+    "title": "Pazarlama Tutanak #399",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2023-03-12",
+    "sizeKb": 4986
+  },
+  {
+    "id": "DOC-00400",
+    "title": "Müşteri Fatura #400",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2023-08-11",
+    "sizeKb": 620
+  },
+  {
+    "id": "DOC-00401",
+    "title": "Müşteri Teklif #401",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2025-03-11",
+    "sizeKb": 1799
+  },
+  {
+    "id": "DOC-00402",
+    "title": "Bakım Sözleşme #402",
+    "category": "Sözleşme",
+    "owner": "Mert Çelik",
+    "date": "2023-02-11",
+    "sizeKb": 3335
+  },
+  {
+    "id": "DOC-00403",
+    "title": "Q3 Operasyon Bordro #403",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2023-02-27",
+    "sizeKb": 2734
+  },
+  {
+    "id": "DOC-00404",
+    "title": "Bakım Fatura #404",
+    "category": "Fatura",
+    "owner": "Can Aydın",
+    "date": "2025-07-07",
+    "sizeKb": 1827
+  },
+  {
+    "id": "DOC-00405",
+    "title": "Q3 Operasyon Bordro #405",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2024-04-16",
+    "sizeKb": 166
+  },
+  {
+    "id": "DOC-00406",
+    "title": "Bütçe Onay Fatura #406",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2023-07-05",
+    "sizeKb": 344
+  },
+  {
+    "id": "DOC-00407",
+    "title": "Hukuk Rapor #407",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2025-06-07",
+    "sizeKb": 4768
+  },
+  {
+    "id": "DOC-00408",
+    "title": "Bakım Sunum #408",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2024-07-22",
+    "sizeKb": 4307
+  },
+  {
+    "id": "DOC-00409",
+    "title": "Aralık Ayı Teklif #409",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2023-02-14",
+    "sizeKb": 4599
+  },
+  {
+    "id": "DOC-00410",
+    "title": "Bakım Teklif #410",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2025-04-07",
+    "sizeKb": 4493
+  },
+  {
+    "id": "DOC-00411",
+    "title": "İK Personel Sunum #411",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2024-08-12",
+    "sizeKb": 3218
+  },
+  {
+    "id": "DOC-00412",
+    "title": "Eğitim Sözleşme #412",
+    "category": "Sözleşme",
+    "owner": "Mert Çelik",
+    "date": "2024-09-01",
+    "sizeKb": 4714
+  },
+  {
+    "id": "DOC-00413",
+    "title": "Vergi Sunum #413",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2024-02-03",
+    "sizeKb": 2182
+  },
+  {
+    "id": "DOC-00414",
+    "title": "Müşteri Tutanak #414",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2025-04-04",
+    "sizeKb": 3087
+  },
+  {
+    "id": "DOC-00415",
+    "title": "Bakım Sözleşme #415",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2023-07-14",
+    "sizeKb": 4643
+  },
+  {
+    "id": "DOC-00416",
+    "title": "Vergi Rapor #416",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2023-03-15",
+    "sizeKb": 3839
+  },
+  {
+    "id": "DOC-00417",
+    "title": "Aralık Ayı Tutanak #417",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2025-02-21",
+    "sizeKb": 520
+  },
+  {
+    "id": "DOC-00418",
+    "title": "Bakım Tutanak #418",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2024-07-08",
+    "sizeKb": 3512
+  },
+  {
+    "id": "DOC-00419",
+    "title": "Aralık Ayı Sunum #419",
+    "category": "Sunum",
+    "owner": "Mehmet Demir",
+    "date": "2025-08-16",
+    "sizeKb": 3150
+  },
+  {
+    "id": "DOC-00420",
+    "title": "Bakım Tutanak #420",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2023-07-10",
+    "sizeKb": 4931
+  },
+  {
+    "id": "DOC-00421",
+    "title": "Bütçe Onay Rapor #421",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-01-20",
+    "sizeKb": 1054
+  },
+  {
+    "id": "DOC-00422",
+    "title": "Tedarikçi Tutanak #422",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2023-05-08",
+    "sizeKb": 4403
+  },
+  {
+    "id": "DOC-00423",
+    "title": "Aralık Ayı Tutanak #423",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2025-07-15",
+    "sizeKb": 569
+  },
+  {
+    "id": "DOC-00424",
+    "title": "İK Personel Tutanak #424",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2023-09-22",
+    "sizeKb": 1340
+  },
+  {
+    "id": "DOC-00425",
+    "title": "İK Personel Bordro #425",
+    "category": "Bordro",
+    "owner": "Can Aydın",
+    "date": "2024-07-13",
+    "sizeKb": 4955
+  },
+  {
+    "id": "DOC-00426",
+    "title": "Bütçe Onay Sunum #426",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2025-08-26",
+    "sizeKb": 1153
+  },
+  {
+    "id": "DOC-00427",
+    "title": "Lojistik Fatura #427",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2024-01-04",
+    "sizeKb": 387
+  },
+  {
+    "id": "DOC-00428",
+    "title": "Q3 Operasyon Rapor #428",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-10-05",
+    "sizeKb": 3318
+  },
+  {
+    "id": "DOC-00429",
+    "title": "Satış Performans Form #429",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2024-12-04",
+    "sizeKb": 1655
+  },
+  {
+    "id": "DOC-00430",
+    "title": "Hukuk Fatura #430",
+    "category": "Fatura",
+    "owner": "Mehmet Demir",
+    "date": "2024-04-17",
+    "sizeKb": 4510
+  },
+  {
+    "id": "DOC-00431",
+    "title": "Q3 Operasyon Sözleşme #431",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2024-10-06",
+    "sizeKb": 3603
+  },
+  {
+    "id": "DOC-00432",
+    "title": "Bütçe Onay Tutanak #432",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2023-08-06",
+    "sizeKb": 2484
+  },
+  {
+    "id": "DOC-00433",
+    "title": "İK Personel Tutanak #433",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2024-12-26",
+    "sizeKb": 2060
+  },
+  {
+    "id": "DOC-00434",
+    "title": "Stok Sayım Sunum #434",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2024-06-27",
+    "sizeKb": 2581
+  },
+  {
+    "id": "DOC-00435",
+    "title": "Hukuk Tutanak #435",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2024-10-26",
+    "sizeKb": 865
+  },
+  {
+    "id": "DOC-00436",
+    "title": "Yıllık Mali Teklif #436",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2023-01-17",
+    "sizeKb": 2276
+  },
+  {
+    "id": "DOC-00437",
+    "title": "Müşteri Sunum #437",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2023-02-03",
+    "sizeKb": 1248
+  },
+  {
+    "id": "DOC-00438",
+    "title": "Bakım Fatura #438",
+    "category": "Fatura",
+    "owner": "Mert Çelik",
+    "date": "2025-12-12",
+    "sizeKb": 2554
+  },
+  {
+    "id": "DOC-00439",
+    "title": "Lojistik Bordro #439",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2024-11-24",
+    "sizeKb": 2617
+  },
+  {
+    "id": "DOC-00440",
+    "title": "Yıllık Mali Teklif #440",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2023-02-25",
+    "sizeKb": 4750
+  },
+  {
+    "id": "DOC-00441",
+    "title": "Stok Sayım Bordro #441",
+    "category": "Bordro",
+    "owner": "Can Aydın",
+    "date": "2024-10-02",
+    "sizeKb": 3631
+  },
+  {
+    "id": "DOC-00442",
+    "title": "Stok Sayım Bordro #442",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2025-09-09",
+    "sizeKb": 3686
+  },
+  {
+    "id": "DOC-00443",
+    "title": "Q3 Operasyon Rapor #443",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2023-02-14",
+    "sizeKb": 743
+  },
+  {
+    "id": "DOC-00444",
+    "title": "Stok Sayım Sözleşme #444",
+    "category": "Sözleşme",
+    "owner": "Mehmet Demir",
+    "date": "2024-05-04",
+    "sizeKb": 1123
+  },
+  {
+    "id": "DOC-00445",
+    "title": "Satış Performans Bordro #445",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-08-26",
+    "sizeKb": 736
+  },
+  {
+    "id": "DOC-00446",
+    "title": "Bakım Fatura #446",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2024-10-20",
+    "sizeKb": 4685
+  },
+  {
+    "id": "DOC-00447",
+    "title": "Aralık Ayı Teklif #447",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2023-05-02",
+    "sizeKb": 1447
+  },
+  {
+    "id": "DOC-00448",
+    "title": "Bütçe Onay Form #448",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2023-10-18",
+    "sizeKb": 1529
+  },
+  {
+    "id": "DOC-00449",
+    "title": "Stok Sayım Sözleşme #449",
+    "category": "Sözleşme",
+    "owner": "Selin Arslan",
+    "date": "2024-10-28",
+    "sizeKb": 2851
+  },
+  {
+    "id": "DOC-00450",
+    "title": "Lojistik Teklif #450",
+    "category": "Teklif",
+    "owner": "Mert Çelik",
+    "date": "2023-04-12",
+    "sizeKb": 247
+  },
+  {
+    "id": "DOC-00451",
+    "title": "İK Personel Tutanak #451",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-02-26",
+    "sizeKb": 4274
+  },
+  {
+    "id": "DOC-00452",
+    "title": "Vergi Sunum #452",
+    "category": "Sunum",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-09-08",
+    "sizeKb": 2272
+  },
+  {
+    "id": "DOC-00453",
+    "title": "Eğitim Sunum #453",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2024-11-06",
+    "sizeKb": 3317
+  },
+  {
+    "id": "DOC-00454",
+    "title": "Hukuk Tutanak #454",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2023-11-04",
+    "sizeKb": 938
+  },
+  {
+    "id": "DOC-00455",
+    "title": "Hukuk Tutanak #455",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2023-07-10",
+    "sizeKb": 2892
+  },
+  {
+    "id": "DOC-00456",
+    "title": "Bütçe Onay Teklif #456",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2025-04-04",
+    "sizeKb": 2465
+  },
+  {
+    "id": "DOC-00457",
+    "title": "Bütçe Onay Sözleşme #457",
+    "category": "Sözleşme",
+    "owner": "Selin Arslan",
+    "date": "2024-06-18",
+    "sizeKb": 1239
+  },
+  {
+    "id": "DOC-00458",
+    "title": "Müşteri Teklif #458",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-03-05",
+    "sizeKb": 4483
+  },
+  {
+    "id": "DOC-00459",
+    "title": "İK Personel Fatura #459",
+    "category": "Fatura",
+    "owner": "Can Aydın",
+    "date": "2024-07-19",
+    "sizeKb": 2883
+  },
+  {
+    "id": "DOC-00460",
+    "title": "Vergi Bordro #460",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2023-08-28",
+    "sizeKb": 1317
+  },
+  {
+    "id": "DOC-00461",
+    "title": "Vergi Form #461",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2025-01-26",
+    "sizeKb": 1416
+  },
+  {
+    "id": "DOC-00462",
+    "title": "Aralık Ayı Rapor #462",
+    "category": "Rapor",
+    "owner": "Mert Çelik",
+    "date": "2025-10-25",
+    "sizeKb": 4951
+  },
+  {
+    "id": "DOC-00463",
+    "title": "Stok Sayım Form #463",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2023-03-16",
+    "sizeKb": 1629
+  },
+  {
+    "id": "DOC-00464",
+    "title": "Stok Sayım Rapor #464",
+    "category": "Rapor",
+    "owner": "Mert Çelik",
+    "date": "2025-05-16",
+    "sizeKb": 461
+  },
+  {
+    "id": "DOC-00465",
+    "title": "Bakım Form #465",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2025-10-08",
+    "sizeKb": 2346
+  },
+  {
+    "id": "DOC-00466",
+    "title": "Vergi Sözleşme #466",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2023-10-11",
+    "sizeKb": 3873
+  },
+  {
+    "id": "DOC-00467",
+    "title": "Aralık Ayı Fatura #467",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-01-01",
+    "sizeKb": 3620
+  },
+  {
+    "id": "DOC-00468",
+    "title": "Bütçe Onay Bordro #468",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2023-06-28",
+    "sizeKb": 2109
+  },
+  {
+    "id": "DOC-00469",
+    "title": "Eğitim Sunum #469",
+    "category": "Sunum",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-07-05",
+    "sizeKb": 3381
+  },
+  {
+    "id": "DOC-00470",
+    "title": "Aralık Ayı Form #470",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2024-06-09",
+    "sizeKb": 341
+  },
+  {
+    "id": "DOC-00471",
+    "title": "Vergi Sunum #471",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2023-04-10",
+    "sizeKb": 3087
+  },
+  {
+    "id": "DOC-00472",
+    "title": "Müşteri Teklif #472",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2023-07-13",
+    "sizeKb": 3522
+  },
+  {
+    "id": "DOC-00473",
+    "title": "Bakım Sözleşme #473",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2025-01-20",
+    "sizeKb": 4122
+  },
+  {
+    "id": "DOC-00474",
+    "title": "Vergi Fatura #474",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2023-05-22",
+    "sizeKb": 4652
+  },
+  {
+    "id": "DOC-00475",
+    "title": "Yıllık Mali Rapor #475",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2025-01-01",
+    "sizeKb": 2521
+  },
+  {
+    "id": "DOC-00476",
+    "title": "Bütçe Onay Sözleşme #476",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2025-06-22",
+    "sizeKb": 1189
+  },
+  {
+    "id": "DOC-00477",
+    "title": "Tedarikçi Rapor #477",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2024-05-14",
+    "sizeKb": 4692
+  },
+  {
+    "id": "DOC-00478",
+    "title": "Aralık Ayı Bordro #478",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2024-07-14",
+    "sizeKb": 532
+  },
+  {
+    "id": "DOC-00479",
+    "title": "Satış Performans Form #479",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2023-12-16",
+    "sizeKb": 943
+  },
+  {
+    "id": "DOC-00480",
+    "title": "Pazarlama Rapor #480",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-09-07",
+    "sizeKb": 2918
+  },
+  {
+    "id": "DOC-00481",
+    "title": "Tedarikçi Tutanak #481",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2025-01-25",
+    "sizeKb": 1357
+  },
+  {
+    "id": "DOC-00482",
+    "title": "İK Personel Sözleşme #482",
+    "category": "Sözleşme",
+    "owner": "Mehmet Demir",
+    "date": "2023-09-16",
+    "sizeKb": 3966
+  },
+  {
+    "id": "DOC-00483",
+    "title": "Satış Performans Sözleşme #483",
+    "category": "Sözleşme",
+    "owner": "Selin Arslan",
+    "date": "2024-06-02",
+    "sizeKb": 1820
+  },
+  {
+    "id": "DOC-00484",
+    "title": "Tedarikçi Sözleşme #484",
+    "category": "Sözleşme",
+    "owner": "Mehmet Demir",
+    "date": "2024-02-17",
+    "sizeKb": 4838
+  },
+  {
+    "id": "DOC-00485",
+    "title": "Lojistik Teklif #485",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2025-05-24",
+    "sizeKb": 4750
+  },
+  {
+    "id": "DOC-00486",
+    "title": "Stok Sayım Teklif #486",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2023-08-05",
+    "sizeKb": 1919
+  },
+  {
+    "id": "DOC-00487",
+    "title": "Satış Performans Fatura #487",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2025-02-03",
+    "sizeKb": 692
+  },
+  {
+    "id": "DOC-00488",
+    "title": "Hukuk Form #488",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2025-11-19",
+    "sizeKb": 137
+  },
+  {
+    "id": "DOC-00489",
+    "title": "Q3 Operasyon Tutanak #489",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2023-05-11",
+    "sizeKb": 3585
+  },
+  {
+    "id": "DOC-00490",
+    "title": "Q3 Operasyon Form #490",
+    "category": "Form",
+    "owner": "Zeynep Kaya",
+    "date": "2023-09-02",
+    "sizeKb": 4176
+  },
+  {
+    "id": "DOC-00491",
+    "title": "Stok Sayım Bordro #491",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2025-04-24",
+    "sizeKb": 1122
+  },
+  {
+    "id": "DOC-00492",
+    "title": "Stok Sayım Tutanak #492",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2023-01-13",
+    "sizeKb": 1266
+  },
+  {
+    "id": "DOC-00493",
+    "title": "Pazarlama Sözleşme #493",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-07-09",
+    "sizeKb": 2491
+  },
+  {
+    "id": "DOC-00494",
+    "title": "Eğitim Sözleşme #494",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2023-09-23",
+    "sizeKb": 2953
+  },
+  {
+    "id": "DOC-00495",
+    "title": "Q3 Operasyon Sunum #495",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2025-11-17",
+    "sizeKb": 3305
+  },
+  {
+    "id": "DOC-00496",
+    "title": "Hukuk Fatura #496",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2024-07-08",
+    "sizeKb": 2706
+  },
+  {
+    "id": "DOC-00497",
+    "title": "Lojistik Tutanak #497",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-11-07",
+    "sizeKb": 2229
+  },
+  {
+    "id": "DOC-00498",
+    "title": "Vergi Tutanak #498",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2025-03-25",
+    "sizeKb": 4566
+  },
+  {
+    "id": "DOC-00499",
+    "title": "Aralık Ayı Fatura #499",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2025-06-22",
+    "sizeKb": 2717
+  },
+  {
+    "id": "DOC-00500",
+    "title": "Tedarikçi Bordro #500",
+    "category": "Bordro",
+    "owner": "Can Aydın",
+    "date": "2025-04-27",
+    "sizeKb": 4719
+  },
+  {
+    "id": "DOC-00501",
+    "title": "Tedarikçi Sözleşme #501",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2025-09-15",
+    "sizeKb": 2385
+  },
+  {
+    "id": "DOC-00502",
+    "title": "Q3 Operasyon Teklif #502",
+    "category": "Teklif",
+    "owner": "Selin Arslan",
+    "date": "2024-08-24",
+    "sizeKb": 686
+  },
+  {
+    "id": "DOC-00503",
+    "title": "Stok Sayım Rapor #503",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2023-05-15",
+    "sizeKb": 355
+  },
+  {
+    "id": "DOC-00504",
+    "title": "Yıllık Mali Bordro #504",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2025-09-10",
+    "sizeKb": 4469
+  },
+  {
+    "id": "DOC-00505",
+    "title": "Vergi Form #505",
+    "category": "Form",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-09-06",
+    "sizeKb": 120
+  },
+  {
+    "id": "DOC-00506",
+    "title": "Q3 Operasyon Form #506",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2023-07-04",
+    "sizeKb": 1700
+  },
+  {
+    "id": "DOC-00507",
+    "title": "Hukuk Tutanak #507",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2023-02-06",
+    "sizeKb": 88
+  },
+  {
+    "id": "DOC-00508",
+    "title": "Stok Sayım Fatura #508",
+    "category": "Fatura",
+    "owner": "Mert Çelik",
+    "date": "2023-12-22",
+    "sizeKb": 2598
+  },
+  {
+    "id": "DOC-00509",
+    "title": "Hukuk Sözleşme #509",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2023-03-14",
+    "sizeKb": 3073
+  },
+  {
+    "id": "DOC-00510",
+    "title": "Hukuk Sözleşme #510",
+    "category": "Sözleşme",
+    "owner": "Elif Şahin",
+    "date": "2024-03-20",
+    "sizeKb": 2955
+  },
+  {
+    "id": "DOC-00511",
+    "title": "Vergi Form #511",
+    "category": "Form",
+    "owner": "Selin Arslan",
+    "date": "2024-01-19",
+    "sizeKb": 2951
+  },
+  {
+    "id": "DOC-00512",
+    "title": "Pazarlama Bordro #512",
+    "category": "Bordro",
+    "owner": "Zeynep Kaya",
+    "date": "2025-05-23",
+    "sizeKb": 4528
+  },
+  {
+    "id": "DOC-00513",
+    "title": "Tedarikçi Tutanak #513",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2024-08-03",
+    "sizeKb": 2745
+  },
+  {
+    "id": "DOC-00514",
+    "title": "Bakım Sözleşme #514",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2025-01-16",
+    "sizeKb": 2816
+  },
+  {
+    "id": "DOC-00515",
+    "title": "Müşteri Tutanak #515",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2024-02-15",
+    "sizeKb": 2657
+  },
+  {
+    "id": "DOC-00516",
+    "title": "Eğitim Rapor #516",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2023-03-08",
+    "sizeKb": 2478
+  },
+  {
+    "id": "DOC-00517",
+    "title": "Satış Performans Bordro #517",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2023-11-25",
+    "sizeKb": 3468
+  },
+  {
+    "id": "DOC-00518",
+    "title": "Hukuk Tutanak #518",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2025-07-04",
+    "sizeKb": 2616
+  },
+  {
+    "id": "DOC-00519",
+    "title": "Lojistik Bordro #519",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-10-03",
+    "sizeKb": 4407
+  },
+  {
+    "id": "DOC-00520",
+    "title": "Bütçe Onay Rapor #520",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2024-05-25",
+    "sizeKb": 496
+  },
+  {
+    "id": "DOC-00521",
+    "title": "Vergi Sunum #521",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2024-11-01",
+    "sizeKb": 1367
+  },
+  {
+    "id": "DOC-00522",
+    "title": "Aralık Ayı Fatura #522",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2025-01-07",
+    "sizeKb": 3864
+  },
+  {
+    "id": "DOC-00523",
+    "title": "Stok Sayım Teklif #523",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-01-11",
+    "sizeKb": 4510
+  },
+  {
+    "id": "DOC-00524",
+    "title": "Tedarikçi Bordro #524",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2023-03-22",
+    "sizeKb": 4458
+  },
+  {
+    "id": "DOC-00525",
+    "title": "Hukuk Form #525",
+    "category": "Form",
+    "owner": "Selin Arslan",
+    "date": "2025-07-22",
+    "sizeKb": 1591
+  },
+  {
+    "id": "DOC-00526",
+    "title": "Müşteri Sunum #526",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2024-12-15",
+    "sizeKb": 3040
+  },
+  {
+    "id": "DOC-00527",
+    "title": "Q3 Operasyon Teklif #527",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2025-06-26",
+    "sizeKb": 4854
+  },
+  {
+    "id": "DOC-00528",
+    "title": "Yıllık Mali Sözleşme #528",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-04-02",
+    "sizeKb": 2168
+  },
+  {
+    "id": "DOC-00529",
+    "title": "Q3 Operasyon Teklif #529",
+    "category": "Teklif",
+    "owner": "Mert Çelik",
+    "date": "2025-05-17",
+    "sizeKb": 786
+  },
+  {
+    "id": "DOC-00530",
+    "title": "Tedarikçi Bordro #530",
+    "category": "Bordro",
+    "owner": "Zeynep Kaya",
+    "date": "2024-12-23",
+    "sizeKb": 1543
+  },
+  {
+    "id": "DOC-00531",
+    "title": "Q3 Operasyon Teklif #531",
+    "category": "Teklif",
+    "owner": "Mert Çelik",
+    "date": "2024-09-15",
+    "sizeKb": 3163
+  },
+  {
+    "id": "DOC-00532",
+    "title": "İK Personel Tutanak #532",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2024-07-12",
+    "sizeKb": 3668
+  },
+  {
+    "id": "DOC-00533",
+    "title": "Bakım Tutanak #533",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2023-11-15",
+    "sizeKb": 443
+  },
+  {
+    "id": "DOC-00534",
+    "title": "Stok Sayım Sözleşme #534",
+    "category": "Sözleşme",
+    "owner": "Mert Çelik",
+    "date": "2023-09-01",
+    "sizeKb": 715
+  },
+  {
+    "id": "DOC-00535",
+    "title": "Vergi Teklif #535",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-08-02",
+    "sizeKb": 3623
+  },
+  {
+    "id": "DOC-00536",
+    "title": "Stok Sayım Sunum #536",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2025-02-21",
+    "sizeKb": 1426
+  },
+  {
+    "id": "DOC-00537",
+    "title": "Bakım Tutanak #537",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-10-06",
+    "sizeKb": 2964
+  },
+  {
+    "id": "DOC-00538",
+    "title": "Lojistik Fatura #538",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2023-08-10",
+    "sizeKb": 758
+  },
+  {
+    "id": "DOC-00539",
+    "title": "Bakım Bordro #539",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-02-04",
+    "sizeKb": 2302
+  },
+  {
+    "id": "DOC-00540",
+    "title": "İK Personel Form #540",
+    "category": "Form",
+    "owner": "Zeynep Kaya",
+    "date": "2024-11-01",
+    "sizeKb": 1842
+  },
+  {
+    "id": "DOC-00541",
+    "title": "Pazarlama Sunum #541",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2023-12-03",
+    "sizeKb": 468
+  },
+  {
+    "id": "DOC-00542",
+    "title": "Bakım Form #542",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2023-06-28",
+    "sizeKb": 3667
+  },
+  {
+    "id": "DOC-00543",
+    "title": "Hukuk Rapor #543",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2023-12-09",
+    "sizeKb": 671
+  },
+  {
+    "id": "DOC-00544",
+    "title": "Pazarlama Sunum #544",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2025-02-26",
+    "sizeKb": 3325
+  },
+  {
+    "id": "DOC-00545",
+    "title": "Pazarlama Tutanak #545",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2025-02-10",
+    "sizeKb": 365
+  },
+  {
+    "id": "DOC-00546",
+    "title": "Tedarikçi Bordro #546",
+    "category": "Bordro",
+    "owner": "Zeynep Kaya",
+    "date": "2025-02-26",
+    "sizeKb": 4659
+  },
+  {
+    "id": "DOC-00547",
+    "title": "Aralık Ayı Form #547",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2024-08-15",
+    "sizeKb": 3669
+  },
+  {
+    "id": "DOC-00548",
+    "title": "Vergi Sözleşme #548",
+    "category": "Sözleşme",
+    "owner": "Mehmet Demir",
+    "date": "2025-07-12",
+    "sizeKb": 2499
+  },
+  {
+    "id": "DOC-00549",
+    "title": "Stok Sayım Tutanak #549",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2025-03-08",
+    "sizeKb": 4154
+  },
+  {
+    "id": "DOC-00550",
+    "title": "Bütçe Onay Bordro #550",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2023-03-12",
+    "sizeKb": 252
+  },
+  {
+    "id": "DOC-00551",
+    "title": "Eğitim Bordro #551",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2023-08-02",
+    "sizeKb": 2473
+  },
+  {
+    "id": "DOC-00552",
+    "title": "Bakım Fatura #552",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2025-01-25",
+    "sizeKb": 2341
+  },
+  {
+    "id": "DOC-00553",
+    "title": "Eğitim Fatura #553",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-09-13",
+    "sizeKb": 4520
+  },
+  {
+    "id": "DOC-00554",
+    "title": "Eğitim Form #554",
+    "category": "Form",
+    "owner": "Selin Arslan",
+    "date": "2024-02-03",
+    "sizeKb": 4228
+  },
+  {
+    "id": "DOC-00555",
+    "title": "Aralık Ayı Rapor #555",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2025-07-28",
+    "sizeKb": 2685
+  },
+  {
+    "id": "DOC-00556",
+    "title": "Vergi Form #556",
+    "category": "Form",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-04-23",
+    "sizeKb": 4289
+  },
+  {
+    "id": "DOC-00557",
+    "title": "Hukuk Rapor #557",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2025-04-14",
+    "sizeKb": 291
+  },
+  {
+    "id": "DOC-00558",
+    "title": "Bakım Sözleşme #558",
+    "category": "Sözleşme",
+    "owner": "Elif Şahin",
+    "date": "2023-09-24",
+    "sizeKb": 138
+  },
+  {
+    "id": "DOC-00559",
+    "title": "Satış Performans Rapor #559",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2025-01-05",
+    "sizeKb": 637
+  },
+  {
+    "id": "DOC-00560",
+    "title": "Bakım Teklif #560",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2024-12-13",
+    "sizeKb": 4669
+  },
+  {
+    "id": "DOC-00561",
+    "title": "Eğitim Form #561",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2024-09-15",
+    "sizeKb": 2563
+  },
+  {
+    "id": "DOC-00562",
+    "title": "Bütçe Onay Fatura #562",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2025-05-19",
+    "sizeKb": 1445
+  },
+  {
+    "id": "DOC-00563",
+    "title": "Eğitim Bordro #563",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2025-02-25",
+    "sizeKb": 4337
+  },
+  {
+    "id": "DOC-00564",
+    "title": "Bakım Tutanak #564",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2025-08-25",
+    "sizeKb": 2379
+  },
+  {
+    "id": "DOC-00565",
+    "title": "Bakım Rapor #565",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2024-05-14",
+    "sizeKb": 604
+  },
+  {
+    "id": "DOC-00566",
+    "title": "Vergi Bordro #566",
+    "category": "Bordro",
+    "owner": "Can Aydın",
+    "date": "2024-08-23",
+    "sizeKb": 184
+  },
+  {
+    "id": "DOC-00567",
+    "title": "Tedarikçi Tutanak #567",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2023-05-27",
+    "sizeKb": 1590
+  },
+  {
+    "id": "DOC-00568",
+    "title": "İK Personel Form #568",
+    "category": "Form",
+    "owner": "Selin Arslan",
+    "date": "2025-01-21",
+    "sizeKb": 4135
+  },
+  {
+    "id": "DOC-00569",
+    "title": "Eğitim Tutanak #569",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2025-06-02",
+    "sizeKb": 2275
+  },
+  {
+    "id": "DOC-00570",
+    "title": "Lojistik Teklif #570",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2023-06-27",
+    "sizeKb": 2673
+  },
+  {
+    "id": "DOC-00571",
+    "title": "Bütçe Onay Rapor #571",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2023-12-11",
+    "sizeKb": 1705
+  },
+  {
+    "id": "DOC-00572",
+    "title": "Aralık Ayı Fatura #572",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2024-02-11",
+    "sizeKb": 1833
+  },
+  {
+    "id": "DOC-00573",
+    "title": "Satış Performans Teklif #573",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-04-10",
+    "sizeKb": 1279
+  },
+  {
+    "id": "DOC-00574",
+    "title": "Müşteri Teklif #574",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2025-02-25",
+    "sizeKb": 4409
+  },
+  {
+    "id": "DOC-00575",
+    "title": "İK Personel Rapor #575",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-12-08",
+    "sizeKb": 2051
+  },
+  {
+    "id": "DOC-00576",
+    "title": "Vergi Bordro #576",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2025-10-10",
+    "sizeKb": 191
+  },
+  {
+    "id": "DOC-00577",
+    "title": "İK Personel Form #577",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2024-02-25",
+    "sizeKb": 2011
+  },
+  {
+    "id": "DOC-00578",
+    "title": "Müşteri Fatura #578",
+    "category": "Fatura",
+    "owner": "Mert Çelik",
+    "date": "2025-12-05",
+    "sizeKb": 3642
+  },
+  {
+    "id": "DOC-00579",
+    "title": "Bütçe Onay Form #579",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2023-03-18",
+    "sizeKb": 4402
+  },
+  {
+    "id": "DOC-00580",
+    "title": "Aralık Ayı Tutanak #580",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2024-10-12",
+    "sizeKb": 1097
+  },
+  {
+    "id": "DOC-00581",
+    "title": "İK Personel Sunum #581",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2023-08-20",
+    "sizeKb": 1534
+  },
+  {
+    "id": "DOC-00582",
+    "title": "Hukuk Sözleşme #582",
+    "category": "Sözleşme",
+    "owner": "Mehmet Demir",
+    "date": "2024-11-05",
+    "sizeKb": 4744
+  },
+  {
+    "id": "DOC-00583",
+    "title": "Müşteri Fatura #583",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2024-03-25",
+    "sizeKb": 1187
+  },
+  {
+    "id": "DOC-00584",
+    "title": "Bakım Sunum #584",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2024-12-14",
+    "sizeKb": 1494
+  },
+  {
+    "id": "DOC-00585",
+    "title": "Lojistik Tutanak #585",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2024-03-11",
+    "sizeKb": 4447
+  },
+  {
+    "id": "DOC-00586",
+    "title": "İK Personel Tutanak #586",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2025-03-22",
+    "sizeKb": 2177
+  },
+  {
+    "id": "DOC-00587",
+    "title": "Q3 Operasyon Rapor #587",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2023-05-16",
+    "sizeKb": 2753
+  },
+  {
+    "id": "DOC-00588",
+    "title": "Tedarikçi Bordro #588",
+    "category": "Bordro",
+    "owner": "Can Aydın",
+    "date": "2025-08-14",
+    "sizeKb": 1273
+  },
+  {
+    "id": "DOC-00589",
+    "title": "Eğitim Form #589",
+    "category": "Form",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-05-12",
+    "sizeKb": 598
+  },
+  {
+    "id": "DOC-00590",
+    "title": "Bütçe Onay Form #590",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2024-06-25",
+    "sizeKb": 367
+  },
+  {
+    "id": "DOC-00591",
+    "title": "Satış Performans Form #591",
+    "category": "Form",
+    "owner": "Selin Arslan",
+    "date": "2024-07-21",
+    "sizeKb": 2911
+  },
+  {
+    "id": "DOC-00592",
+    "title": "Müşteri Fatura #592",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2023-04-05",
+    "sizeKb": 76
+  },
+  {
+    "id": "DOC-00593",
+    "title": "Q3 Operasyon Fatura #593",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-04-15",
+    "sizeKb": 3113
+  },
+  {
+    "id": "DOC-00594",
+    "title": "İK Personel Teklif #594",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2023-02-27",
+    "sizeKb": 1897
+  },
+  {
+    "id": "DOC-00595",
+    "title": "Tedarikçi Form #595",
+    "category": "Form",
+    "owner": "Selin Arslan",
+    "date": "2024-11-20",
+    "sizeKb": 1496
+  },
+  {
+    "id": "DOC-00596",
+    "title": "Bütçe Onay Sözleşme #596",
+    "category": "Sözleşme",
+    "owner": "Mehmet Demir",
+    "date": "2023-12-17",
+    "sizeKb": 2139
+  },
+  {
+    "id": "DOC-00597",
+    "title": "Satış Performans Sunum #597",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2023-11-23",
+    "sizeKb": 315
+  },
+  {
+    "id": "DOC-00598",
+    "title": "Hukuk Fatura #598",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2025-03-20",
+    "sizeKb": 3322
+  },
+  {
+    "id": "DOC-00599",
+    "title": "Satış Performans Teklif #599",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-06-11",
+    "sizeKb": 4413
+  },
+  {
+    "id": "DOC-00600",
+    "title": "Yıllık Mali Rapor #600",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2025-06-25",
+    "sizeKb": 846
+  },
+  {
+    "id": "DOC-00601",
+    "title": "Müşteri Sözleşme #601",
+    "category": "Sözleşme",
+    "owner": "Mert Çelik",
+    "date": "2023-07-06",
+    "sizeKb": 2835
+  },
+  {
+    "id": "DOC-00602",
+    "title": "Eğitim Tutanak #602",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-01-01",
+    "sizeKb": 4212
+  },
+  {
+    "id": "DOC-00603",
+    "title": "Stok Sayım Sözleşme #603",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2023-08-23",
+    "sizeKb": 1827
+  },
+  {
+    "id": "DOC-00604",
+    "title": "Yıllık Mali Fatura #604",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2024-01-22",
+    "sizeKb": 373
+  },
+  {
+    "id": "DOC-00605",
+    "title": "Yıllık Mali Form #605",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2025-02-17",
+    "sizeKb": 652
+  },
+  {
+    "id": "DOC-00606",
+    "title": "Pazarlama Fatura #606",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2025-09-19",
+    "sizeKb": 1132
+  },
+  {
+    "id": "DOC-00607",
+    "title": "Bakım Rapor #607",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2023-07-25",
+    "sizeKb": 3932
+  },
+  {
+    "id": "DOC-00608",
+    "title": "Aralık Ayı Bordro #608",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2025-03-17",
+    "sizeKb": 710
+  },
+  {
+    "id": "DOC-00609",
+    "title": "Tedarikçi Form #609",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2025-08-08",
+    "sizeKb": 2611
+  },
+  {
+    "id": "DOC-00610",
+    "title": "Lojistik Fatura #610",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2024-03-21",
+    "sizeKb": 3736
+  },
+  {
+    "id": "DOC-00611",
+    "title": "Satış Performans Rapor #611",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2023-06-24",
+    "sizeKb": 1117
+  },
+  {
+    "id": "DOC-00612",
+    "title": "Müşteri Rapor #612",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-10-02",
+    "sizeKb": 805
+  },
+  {
+    "id": "DOC-00613",
+    "title": "Hukuk Teklif #613",
+    "category": "Teklif",
+    "owner": "Selin Arslan",
+    "date": "2024-12-04",
+    "sizeKb": 999
+  },
+  {
+    "id": "DOC-00614",
+    "title": "İK Personel Fatura #614",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-09-22",
+    "sizeKb": 1921
+  },
+  {
+    "id": "DOC-00615",
+    "title": "İK Personel Sözleşme #615",
+    "category": "Sözleşme",
+    "owner": "Elif Şahin",
+    "date": "2024-07-15",
+    "sizeKb": 1464
+  },
+  {
+    "id": "DOC-00616",
+    "title": "İK Personel Fatura #616",
+    "category": "Fatura",
+    "owner": "Can Aydın",
+    "date": "2023-02-14",
+    "sizeKb": 3891
+  },
+  {
+    "id": "DOC-00617",
+    "title": "Pazarlama Bordro #617",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2024-11-20",
+    "sizeKb": 3824
+  },
+  {
+    "id": "DOC-00618",
+    "title": "Müşteri Sözleşme #618",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2023-02-11",
+    "sizeKb": 400
+  },
+  {
+    "id": "DOC-00619",
+    "title": "Müşteri Rapor #619",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2024-09-04",
+    "sizeKb": 2654
+  },
+  {
+    "id": "DOC-00620",
+    "title": "Q3 Operasyon Bordro #620",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2024-01-11",
+    "sizeKb": 3469
+  },
+  {
+    "id": "DOC-00621",
+    "title": "Eğitim Fatura #621",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2023-11-26",
+    "sizeKb": 3784
+  },
+  {
+    "id": "DOC-00622",
+    "title": "Q3 Operasyon Rapor #622",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-03-15",
+    "sizeKb": 2835
+  },
+  {
+    "id": "DOC-00623",
+    "title": "Satış Performans Bordro #623",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2025-10-17",
+    "sizeKb": 159
+  },
+  {
+    "id": "DOC-00624",
+    "title": "Bakım Bordro #624",
+    "category": "Bordro",
+    "owner": "Mert Çelik",
+    "date": "2024-07-07",
+    "sizeKb": 1369
+  },
+  {
+    "id": "DOC-00625",
+    "title": "Stok Sayım Sözleşme #625",
+    "category": "Sözleşme",
+    "owner": "Mert Çelik",
+    "date": "2024-04-07",
+    "sizeKb": 4043
+  },
+  {
+    "id": "DOC-00626",
+    "title": "Vergi Tutanak #626",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2025-02-26",
+    "sizeKb": 255
+  },
+  {
+    "id": "DOC-00627",
+    "title": "Aralık Ayı Sözleşme #627",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-08-16",
+    "sizeKb": 3264
+  },
+  {
+    "id": "DOC-00628",
+    "title": "İK Personel Bordro #628",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2025-10-09",
+    "sizeKb": 4569
+  },
+  {
+    "id": "DOC-00629",
+    "title": "İK Personel Form #629",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2025-01-27",
+    "sizeKb": 575
+  },
+  {
+    "id": "DOC-00630",
+    "title": "Bütçe Onay Sunum #630",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2024-02-14",
+    "sizeKb": 4388
+  },
+  {
+    "id": "DOC-00631",
+    "title": "Vergi Form #631",
+    "category": "Form",
+    "owner": "Zeynep Kaya",
+    "date": "2024-10-23",
+    "sizeKb": 1925
+  },
+  {
+    "id": "DOC-00632",
+    "title": "Bakım Sunum #632",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2023-05-03",
+    "sizeKb": 3828
+  },
+  {
+    "id": "DOC-00633",
+    "title": "Aralık Ayı Form #633",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2024-06-19",
+    "sizeKb": 3812
+  },
+  {
+    "id": "DOC-00634",
+    "title": "Pazarlama Rapor #634",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2023-01-13",
+    "sizeKb": 4157
+  },
+  {
+    "id": "DOC-00635",
+    "title": "Bütçe Onay Sunum #635",
+    "category": "Sunum",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-06-13",
+    "sizeKb": 296
+  },
+  {
+    "id": "DOC-00636",
+    "title": "Pazarlama Bordro #636",
+    "category": "Bordro",
+    "owner": "Zeynep Kaya",
+    "date": "2024-12-13",
+    "sizeKb": 2830
+  },
+  {
+    "id": "DOC-00637",
+    "title": "Pazarlama Fatura #637",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2024-10-28",
+    "sizeKb": 2350
+  },
+  {
+    "id": "DOC-00638",
+    "title": "Pazarlama Teklif #638",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2023-12-01",
+    "sizeKb": 2782
+  },
+  {
+    "id": "DOC-00639",
+    "title": "Bütçe Onay Rapor #639",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2024-08-04",
+    "sizeKb": 1430
+  },
+  {
+    "id": "DOC-00640",
+    "title": "Lojistik Tutanak #640",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2025-02-03",
+    "sizeKb": 2812
+  },
+  {
+    "id": "DOC-00641",
+    "title": "Tedarikçi Tutanak #641",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2025-05-01",
+    "sizeKb": 3991
+  },
+  {
+    "id": "DOC-00642",
+    "title": "Pazarlama Teklif #642",
+    "category": "Teklif",
+    "owner": "Mert Çelik",
+    "date": "2025-05-26",
+    "sizeKb": 1675
+  },
+  {
+    "id": "DOC-00643",
+    "title": "İK Personel Fatura #643",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2023-09-23",
+    "sizeKb": 154
+  },
+  {
+    "id": "DOC-00644",
+    "title": "Bakım Sözleşme #644",
+    "category": "Sözleşme",
+    "owner": "Selin Arslan",
+    "date": "2024-06-20",
+    "sizeKb": 720
+  },
+  {
+    "id": "DOC-00645",
+    "title": "Tedarikçi Teklif #645",
+    "category": "Teklif",
+    "owner": "Selin Arslan",
+    "date": "2024-12-11",
+    "sizeKb": 3645
+  },
+  {
+    "id": "DOC-00646",
+    "title": "Bakım Sunum #646",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2024-08-11",
+    "sizeKb": 2107
+  },
+  {
+    "id": "DOC-00647",
+    "title": "Stok Sayım Rapor #647",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2023-04-08",
+    "sizeKb": 4471
+  },
+  {
+    "id": "DOC-00648",
+    "title": "Aralık Ayı Form #648",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2024-11-03",
+    "sizeKb": 1535
+  },
+  {
+    "id": "DOC-00649",
+    "title": "Lojistik Tutanak #649",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2024-02-19",
+    "sizeKb": 4196
+  },
+  {
+    "id": "DOC-00650",
+    "title": "Yıllık Mali Fatura #650",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2025-09-21",
+    "sizeKb": 4279
+  },
+  {
+    "id": "DOC-00651",
+    "title": "İK Personel Sunum #651",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2025-03-20",
+    "sizeKb": 1619
+  },
+  {
+    "id": "DOC-00652",
+    "title": "Eğitim Teklif #652",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2023-01-08",
+    "sizeKb": 180
+  },
+  {
+    "id": "DOC-00653",
+    "title": "Bütçe Onay Fatura #653",
+    "category": "Fatura",
+    "owner": "Mehmet Demir",
+    "date": "2024-12-05",
+    "sizeKb": 68
+  },
+  {
+    "id": "DOC-00654",
+    "title": "Pazarlama Rapor #654",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2024-10-14",
+    "sizeKb": 4759
+  },
+  {
+    "id": "DOC-00655",
+    "title": "Pazarlama Rapor #655",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2025-12-13",
+    "sizeKb": 1783
+  },
+  {
+    "id": "DOC-00656",
+    "title": "Eğitim Tutanak #656",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2025-10-25",
+    "sizeKb": 3839
+  },
+  {
+    "id": "DOC-00657",
+    "title": "Eğitim Teklif #657",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2024-10-23",
+    "sizeKb": 1948
+  },
+  {
+    "id": "DOC-00658",
+    "title": "Yıllık Mali Rapor #658",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2023-01-04",
+    "sizeKb": 3735
+  },
+  {
+    "id": "DOC-00659",
+    "title": "Q3 Operasyon Fatura #659",
+    "category": "Fatura",
+    "owner": "Mert Çelik",
+    "date": "2024-05-15",
+    "sizeKb": 4064
+  },
+  {
+    "id": "DOC-00660",
+    "title": "İK Personel Bordro #660",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2024-09-03",
+    "sizeKb": 1945
+  },
+  {
+    "id": "DOC-00661",
+    "title": "Lojistik Teklif #661",
+    "category": "Teklif",
+    "owner": "Selin Arslan",
+    "date": "2023-12-05",
+    "sizeKb": 4706
+  },
+  {
+    "id": "DOC-00662",
+    "title": "Q3 Operasyon Teklif #662",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-11-20",
+    "sizeKb": 4833
+  },
+  {
+    "id": "DOC-00663",
+    "title": "Q3 Operasyon Form #663",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2024-11-17",
+    "sizeKb": 2461
+  },
+  {
+    "id": "DOC-00664",
+    "title": "Satış Performans Tutanak #664",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2024-09-14",
+    "sizeKb": 4691
+  },
+  {
+    "id": "DOC-00665",
+    "title": "Vergi Sunum #665",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2023-05-20",
+    "sizeKb": 681
+  },
+  {
+    "id": "DOC-00666",
+    "title": "Satış Performans Rapor #666",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-05-14",
+    "sizeKb": 2117
+  },
+  {
+    "id": "DOC-00667",
+    "title": "Stok Sayım Sözleşme #667",
+    "category": "Sözleşme",
+    "owner": "Selin Arslan",
+    "date": "2024-03-04",
+    "sizeKb": 368
+  },
+  {
+    "id": "DOC-00668",
+    "title": "Q3 Operasyon Teklif #668",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2024-04-10",
+    "sizeKb": 3038
+  },
+  {
+    "id": "DOC-00669",
+    "title": "Yıllık Mali Fatura #669",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2023-01-02",
+    "sizeKb": 2123
+  },
+  {
+    "id": "DOC-00670",
+    "title": "Stok Sayım Form #670",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2024-06-25",
+    "sizeKb": 3046
+  },
+  {
+    "id": "DOC-00671",
+    "title": "Yıllık Mali Teklif #671",
+    "category": "Teklif",
+    "owner": "Mert Çelik",
+    "date": "2024-01-14",
+    "sizeKb": 1624
+  },
+  {
+    "id": "DOC-00672",
+    "title": "Hukuk Bordro #672",
+    "category": "Bordro",
+    "owner": "Mert Çelik",
+    "date": "2024-02-22",
+    "sizeKb": 462
+  },
+  {
+    "id": "DOC-00673",
+    "title": "Müşteri Bordro #673",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-03-01",
+    "sizeKb": 3895
+  },
+  {
+    "id": "DOC-00674",
+    "title": "Eğitim Sunum #674",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2024-01-22",
+    "sizeKb": 1764
+  },
+  {
+    "id": "DOC-00675",
+    "title": "Bütçe Onay Tutanak #675",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2023-07-23",
+    "sizeKb": 3196
+  },
+  {
+    "id": "DOC-00676",
+    "title": "Bütçe Onay Fatura #676",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2024-07-09",
+    "sizeKb": 2290
+  },
+  {
+    "id": "DOC-00677",
+    "title": "Tedarikçi Bordro #677",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2025-04-22",
+    "sizeKb": 1506
+  },
+  {
+    "id": "DOC-00678",
+    "title": "Tedarikçi Sözleşme #678",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2025-12-19",
+    "sizeKb": 3742
+  },
+  {
+    "id": "DOC-00679",
+    "title": "Stok Sayım Tutanak #679",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2024-06-06",
+    "sizeKb": 1982
+  },
+  {
+    "id": "DOC-00680",
+    "title": "Eğitim Sunum #680",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2023-09-17",
+    "sizeKb": 265
+  },
+  {
+    "id": "DOC-00681",
+    "title": "Yıllık Mali Sunum #681",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2025-12-26",
+    "sizeKb": 4219
+  },
+  {
+    "id": "DOC-00682",
+    "title": "Tedarikçi Fatura #682",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2024-03-14",
+    "sizeKb": 4798
+  },
+  {
+    "id": "DOC-00683",
+    "title": "Pazarlama Bordro #683",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2025-03-04",
+    "sizeKb": 3202
+  },
+  {
+    "id": "DOC-00684",
+    "title": "Satış Performans Sunum #684",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2023-07-10",
+    "sizeKb": 3168
+  },
+  {
+    "id": "DOC-00685",
+    "title": "İK Personel Teklif #685",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2024-09-19",
+    "sizeKb": 3298
+  },
+  {
+    "id": "DOC-00686",
+    "title": "Stok Sayım Sözleşme #686",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2023-08-10",
+    "sizeKb": 1646
+  },
+  {
+    "id": "DOC-00687",
+    "title": "Eğitim Rapor #687",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2023-08-16",
+    "sizeKb": 1689
+  },
+  {
+    "id": "DOC-00688",
+    "title": "İK Personel Form #688",
+    "category": "Form",
+    "owner": "Selin Arslan",
+    "date": "2025-07-12",
+    "sizeKb": 77
+  },
+  {
+    "id": "DOC-00689",
+    "title": "Bütçe Onay Tutanak #689",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2025-09-28",
+    "sizeKb": 1750
+  },
+  {
+    "id": "DOC-00690",
+    "title": "Stok Sayım Fatura #690",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2023-10-23",
+    "sizeKb": 4380
+  },
+  {
+    "id": "DOC-00691",
+    "title": "Vergi Sunum #691",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2025-02-11",
+    "sizeKb": 273
+  },
+  {
+    "id": "DOC-00692",
+    "title": "İK Personel Form #692",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2023-06-22",
+    "sizeKb": 4947
+  },
+  {
+    "id": "DOC-00693",
+    "title": "Satış Performans Rapor #693",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2023-04-07",
+    "sizeKb": 3976
+  },
+  {
+    "id": "DOC-00694",
+    "title": "Aralık Ayı Rapor #694",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2025-11-11",
+    "sizeKb": 2115
+  },
+  {
+    "id": "DOC-00695",
+    "title": "Müşteri Bordro #695",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2024-12-23",
+    "sizeKb": 4787
+  },
+  {
+    "id": "DOC-00696",
+    "title": "Aralık Ayı Teklif #696",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2024-07-07",
+    "sizeKb": 4981
+  },
+  {
+    "id": "DOC-00697",
+    "title": "Pazarlama Tutanak #697",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2023-11-09",
+    "sizeKb": 2452
+  },
+  {
+    "id": "DOC-00698",
+    "title": "Q3 Operasyon Fatura #698",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2023-09-16",
+    "sizeKb": 4115
+  },
+  {
+    "id": "DOC-00699",
+    "title": "Bütçe Onay Rapor #699",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-06-22",
+    "sizeKb": 1375
+  },
+  {
+    "id": "DOC-00700",
+    "title": "Lojistik Teklif #700",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2025-04-18",
+    "sizeKb": 3348
+  },
+  {
+    "id": "DOC-00701",
+    "title": "Bütçe Onay Sözleşme #701",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2023-12-17",
+    "sizeKb": 4846
+  },
+  {
+    "id": "DOC-00702",
+    "title": "Bakım Bordro #702",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2025-06-19",
+    "sizeKb": 104
+  },
+  {
+    "id": "DOC-00703",
+    "title": "Bakım Tutanak #703",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2024-11-09",
+    "sizeKb": 1148
+  },
+  {
+    "id": "DOC-00704",
+    "title": "Tedarikçi Tutanak #704",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2023-10-20",
+    "sizeKb": 2315
+  },
+  {
+    "id": "DOC-00705",
+    "title": "Q3 Operasyon Bordro #705",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2024-09-21",
+    "sizeKb": 450
+  },
+  {
+    "id": "DOC-00706",
+    "title": "Bütçe Onay Tutanak #706",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2023-01-06",
+    "sizeKb": 2742
+  },
+  {
+    "id": "DOC-00707",
+    "title": "Satış Performans Form #707",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2024-04-06",
+    "sizeKb": 736
+  },
+  {
+    "id": "DOC-00708",
+    "title": "Q3 Operasyon Sunum #708",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2023-10-13",
+    "sizeKb": 2122
+  },
+  {
+    "id": "DOC-00709",
+    "title": "Bütçe Onay Fatura #709",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2025-03-09",
+    "sizeKb": 3766
+  },
+  {
+    "id": "DOC-00710",
+    "title": "Aralık Ayı Rapor #710",
+    "category": "Rapor",
+    "owner": "Mert Çelik",
+    "date": "2025-11-28",
+    "sizeKb": 4131
+  },
+  {
+    "id": "DOC-00711",
+    "title": "Satış Performans Form #711",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2025-04-01",
+    "sizeKb": 2979
+  },
+  {
+    "id": "DOC-00712",
+    "title": "Bakım Fatura #712",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-03-15",
+    "sizeKb": 2937
+  },
+  {
+    "id": "DOC-00713",
+    "title": "Satış Performans Fatura #713",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2025-07-19",
+    "sizeKb": 2586
+  },
+  {
+    "id": "DOC-00714",
+    "title": "Bütçe Onay Tutanak #714",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2025-03-18",
+    "sizeKb": 2174
+  },
+  {
+    "id": "DOC-00715",
+    "title": "Yıllık Mali Tutanak #715",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2023-09-08",
+    "sizeKb": 4768
+  },
+  {
+    "id": "DOC-00716",
+    "title": "Eğitim Sözleşme #716",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-12-01",
+    "sizeKb": 1617
+  },
+  {
+    "id": "DOC-00717",
+    "title": "Eğitim Rapor #717",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2023-07-26",
+    "sizeKb": 379
+  },
+  {
+    "id": "DOC-00718",
+    "title": "Eğitim Fatura #718",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2024-06-25",
+    "sizeKb": 278
+  },
+  {
+    "id": "DOC-00719",
+    "title": "Müşteri Sunum #719",
+    "category": "Sunum",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-08-09",
+    "sizeKb": 413
+  },
+  {
+    "id": "DOC-00720",
+    "title": "Q3 Operasyon Sunum #720",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2025-07-05",
+    "sizeKb": 2694
+  },
+  {
+    "id": "DOC-00721",
+    "title": "Pazarlama Tutanak #721",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2025-12-27",
+    "sizeKb": 4324
+  },
+  {
+    "id": "DOC-00722",
+    "title": "Stok Sayım Sözleşme #722",
+    "category": "Sözleşme",
+    "owner": "Mert Çelik",
+    "date": "2024-08-14",
+    "sizeKb": 1005
+  },
+  {
+    "id": "DOC-00723",
+    "title": "Bakım Form #723",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2023-08-13",
+    "sizeKb": 598
+  },
+  {
+    "id": "DOC-00724",
+    "title": "Yıllık Mali Sunum #724",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2024-08-16",
+    "sizeKb": 498
+  },
+  {
+    "id": "DOC-00725",
+    "title": "Lojistik Teklif #725",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2023-04-28",
+    "sizeKb": 4588
+  },
+  {
+    "id": "DOC-00726",
+    "title": "Bütçe Onay Sözleşme #726",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2023-01-25",
+    "sizeKb": 3933
+  },
+  {
+    "id": "DOC-00727",
+    "title": "Yıllık Mali Teklif #727",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2025-01-07",
+    "sizeKb": 2161
+  },
+  {
+    "id": "DOC-00728",
+    "title": "Yıllık Mali Sunum #728",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2025-01-03",
+    "sizeKb": 3978
+  },
+  {
+    "id": "DOC-00729",
+    "title": "Vergi Teklif #729",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2023-07-12",
+    "sizeKb": 1653
+  },
+  {
+    "id": "DOC-00730",
+    "title": "Lojistik Bordro #730",
+    "category": "Bordro",
+    "owner": "Mert Çelik",
+    "date": "2024-12-06",
+    "sizeKb": 4405
+  },
+  {
+    "id": "DOC-00731",
+    "title": "İK Personel Sunum #731",
+    "category": "Sunum",
+    "owner": "Mehmet Demir",
+    "date": "2025-06-24",
+    "sizeKb": 771
+  },
+  {
+    "id": "DOC-00732",
+    "title": "Yıllık Mali Tutanak #732",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2025-12-03",
+    "sizeKb": 4798
+  },
+  {
+    "id": "DOC-00733",
+    "title": "Tedarikçi Teklif #733",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-09-17",
+    "sizeKb": 3223
+  },
+  {
+    "id": "DOC-00734",
+    "title": "Stok Sayım Bordro #734",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2024-08-02",
+    "sizeKb": 1066
+  },
+  {
+    "id": "DOC-00735",
+    "title": "Lojistik Tutanak #735",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2023-02-02",
+    "sizeKb": 4031
+  },
+  {
+    "id": "DOC-00736",
+    "title": "Vergi Tutanak #736",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-05-05",
+    "sizeKb": 2925
+  },
+  {
+    "id": "DOC-00737",
+    "title": "Satış Performans Tutanak #737",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2024-07-22",
+    "sizeKb": 767
+  },
+  {
+    "id": "DOC-00738",
+    "title": "Bütçe Onay Tutanak #738",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2024-09-02",
+    "sizeKb": 4516
+  },
+  {
+    "id": "DOC-00739",
+    "title": "Vergi Sunum #739",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2024-06-22",
+    "sizeKb": 2092
+  },
+  {
+    "id": "DOC-00740",
+    "title": "Q3 Operasyon Fatura #740",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2023-11-03",
+    "sizeKb": 4541
+  },
+  {
+    "id": "DOC-00741",
+    "title": "Müşteri Sözleşme #741",
+    "category": "Sözleşme",
+    "owner": "Mert Çelik",
+    "date": "2024-05-11",
+    "sizeKb": 4838
+  },
+  {
+    "id": "DOC-00742",
+    "title": "Aralık Ayı Form #742",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2025-07-18",
+    "sizeKb": 4227
+  },
+  {
+    "id": "DOC-00743",
+    "title": "Vergi Sözleşme #743",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2025-05-28",
+    "sizeKb": 4358
+  },
+  {
+    "id": "DOC-00744",
+    "title": "Q3 Operasyon Teklif #744",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2025-08-14",
+    "sizeKb": 2957
+  },
+  {
+    "id": "DOC-00745",
+    "title": "İK Personel Teklif #745",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2024-07-18",
+    "sizeKb": 3504
+  },
+  {
+    "id": "DOC-00746",
+    "title": "Tedarikçi Teklif #746",
+    "category": "Teklif",
+    "owner": "Selin Arslan",
+    "date": "2025-05-24",
+    "sizeKb": 4314
+  },
+  {
+    "id": "DOC-00747",
+    "title": "Stok Sayım Teklif #747",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-04-26",
+    "sizeKb": 2318
+  },
+  {
+    "id": "DOC-00748",
+    "title": "Bakım Teklif #748",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2024-12-09",
+    "sizeKb": 424
+  },
+  {
+    "id": "DOC-00749",
+    "title": "Bakım Form #749",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2023-02-13",
+    "sizeKb": 991
+  },
+  {
+    "id": "DOC-00750",
+    "title": "Bakım Form #750",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2023-11-14",
+    "sizeKb": 686
+  },
+  {
+    "id": "DOC-00751",
+    "title": "Hukuk Sözleşme #751",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2023-01-12",
+    "sizeKb": 2024
+  },
+  {
+    "id": "DOC-00752",
+    "title": "Pazarlama Form #752",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2025-12-10",
+    "sizeKb": 68
+  },
+  {
+    "id": "DOC-00753",
+    "title": "Bütçe Onay Rapor #753",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2025-07-14",
+    "sizeKb": 698
+  },
+  {
+    "id": "DOC-00754",
+    "title": "Satış Performans Sözleşme #754",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2023-07-26",
+    "sizeKb": 3842
+  },
+  {
+    "id": "DOC-00755",
+    "title": "İK Personel Sözleşme #755",
+    "category": "Sözleşme",
+    "owner": "Mert Çelik",
+    "date": "2025-03-08",
+    "sizeKb": 2034
+  },
+  {
+    "id": "DOC-00756",
+    "title": "Satış Performans Bordro #756",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2025-06-09",
+    "sizeKb": 929
+  },
+  {
+    "id": "DOC-00757",
+    "title": "Pazarlama Tutanak #757",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2024-04-06",
+    "sizeKb": 4552
+  },
+  {
+    "id": "DOC-00758",
+    "title": "Stok Sayım Tutanak #758",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-03-17",
+    "sizeKb": 2002
+  },
+  {
+    "id": "DOC-00759",
+    "title": "Pazarlama Sözleşme #759",
+    "category": "Sözleşme",
+    "owner": "Elif Şahin",
+    "date": "2024-10-26",
+    "sizeKb": 3626
+  },
+  {
+    "id": "DOC-00760",
+    "title": "Bakım Tutanak #760",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2023-05-09",
+    "sizeKb": 4843
+  },
+  {
+    "id": "DOC-00761",
+    "title": "Vergi Form #761",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2025-03-01",
+    "sizeKb": 3595
+  },
+  {
+    "id": "DOC-00762",
+    "title": "Yıllık Mali Fatura #762",
+    "category": "Fatura",
+    "owner": "Can Aydın",
+    "date": "2024-10-16",
+    "sizeKb": 4403
+  },
+  {
+    "id": "DOC-00763",
+    "title": "Bakım Bordro #763",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-08-10",
+    "sizeKb": 4849
+  },
+  {
+    "id": "DOC-00764",
+    "title": "Pazarlama Tutanak #764",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2025-04-10",
+    "sizeKb": 1597
+  },
+  {
+    "id": "DOC-00765",
+    "title": "Vergi Form #765",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2025-04-06",
+    "sizeKb": 4844
+  },
+  {
+    "id": "DOC-00766",
+    "title": "Bakım Sunum #766",
+    "category": "Sunum",
+    "owner": "Can Aydın",
+    "date": "2025-03-13",
+    "sizeKb": 3115
+  },
+  {
+    "id": "DOC-00767",
+    "title": "Pazarlama Sözleşme #767",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2025-06-02",
+    "sizeKb": 461
+  },
+  {
+    "id": "DOC-00768",
+    "title": "Bakım Sözleşme #768",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2025-02-17",
+    "sizeKb": 3588
+  },
+  {
+    "id": "DOC-00769",
+    "title": "Pazarlama Teklif #769",
+    "category": "Teklif",
+    "owner": "Selin Arslan",
+    "date": "2024-11-12",
+    "sizeKb": 540
+  },
+  {
+    "id": "DOC-00770",
+    "title": "Stok Sayım Tutanak #770",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2025-03-14",
+    "sizeKb": 2853
+  },
+  {
+    "id": "DOC-00771",
+    "title": "Bütçe Onay Rapor #771",
+    "category": "Rapor",
+    "owner": "Mert Çelik",
+    "date": "2023-10-16",
+    "sizeKb": 4168
+  },
+  {
+    "id": "DOC-00772",
+    "title": "Bütçe Onay Rapor #772",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2025-08-05",
+    "sizeKb": 840
+  },
+  {
+    "id": "DOC-00773",
+    "title": "Pazarlama Sözleşme #773",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-05-13",
+    "sizeKb": 4066
+  },
+  {
+    "id": "DOC-00774",
+    "title": "Q3 Operasyon Teklif #774",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2024-12-07",
+    "sizeKb": 3207
+  },
+  {
+    "id": "DOC-00775",
+    "title": "Satış Performans Bordro #775",
+    "category": "Bordro",
+    "owner": "Can Aydın",
+    "date": "2025-04-04",
+    "sizeKb": 4868
+  },
+  {
+    "id": "DOC-00776",
+    "title": "Vergi Bordro #776",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2023-10-04",
+    "sizeKb": 4810
+  },
+  {
+    "id": "DOC-00777",
+    "title": "Lojistik Rapor #777",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2023-01-01",
+    "sizeKb": 1344
+  },
+  {
+    "id": "DOC-00778",
+    "title": "Satış Performans Tutanak #778",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2024-06-25",
+    "sizeKb": 4987
+  },
+  {
+    "id": "DOC-00779",
+    "title": "Bakım Tutanak #779",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2024-09-08",
+    "sizeKb": 3944
+  },
+  {
+    "id": "DOC-00780",
+    "title": "Stok Sayım Tutanak #780",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2024-05-07",
+    "sizeKb": 579
+  },
+  {
+    "id": "DOC-00781",
+    "title": "Lojistik Rapor #781",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2024-08-24",
+    "sizeKb": 1588
+  },
+  {
+    "id": "DOC-00782",
+    "title": "Eğitim Tutanak #782",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2025-11-08",
+    "sizeKb": 4025
+  },
+  {
+    "id": "DOC-00783",
+    "title": "Bütçe Onay Teklif #783",
+    "category": "Teklif",
+    "owner": "Selin Arslan",
+    "date": "2024-06-16",
+    "sizeKb": 651
+  },
+  {
+    "id": "DOC-00784",
+    "title": "Vergi Sunum #784",
+    "category": "Sunum",
+    "owner": "Zeynep Kaya",
+    "date": "2025-11-20",
+    "sizeKb": 703
+  },
+  {
+    "id": "DOC-00785",
+    "title": "Q3 Operasyon Rapor #785",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2023-05-15",
+    "sizeKb": 4819
+  },
+  {
+    "id": "DOC-00786",
+    "title": "Hukuk Sunum #786",
+    "category": "Sunum",
+    "owner": "Can Aydın",
+    "date": "2025-06-19",
+    "sizeKb": 4336
+  },
+  {
+    "id": "DOC-00787",
+    "title": "Pazarlama Form #787",
+    "category": "Form",
+    "owner": "Zeynep Kaya",
+    "date": "2024-09-06",
+    "sizeKb": 3019
+  },
+  {
+    "id": "DOC-00788",
+    "title": "Lojistik Fatura #788",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2024-10-11",
+    "sizeKb": 125
+  },
+  {
+    "id": "DOC-00789",
+    "title": "Vergi Fatura #789",
+    "category": "Fatura",
+    "owner": "Selin Arslan",
+    "date": "2025-04-14",
+    "sizeKb": 3742
+  },
+  {
+    "id": "DOC-00790",
+    "title": "Bütçe Onay Sunum #790",
+    "category": "Sunum",
+    "owner": "Can Aydın",
+    "date": "2023-02-11",
+    "sizeKb": 230
+  },
+  {
+    "id": "DOC-00791",
+    "title": "Q3 Operasyon Bordro #791",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2025-10-06",
+    "sizeKb": 1548
+  },
+  {
+    "id": "DOC-00792",
+    "title": "Eğitim Form #792",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2024-09-16",
+    "sizeKb": 3930
+  },
+  {
+    "id": "DOC-00793",
+    "title": "Vergi Fatura #793",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2023-12-20",
+    "sizeKb": 1192
+  },
+  {
+    "id": "DOC-00794",
+    "title": "Satış Performans Teklif #794",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2023-05-01",
+    "sizeKb": 1096
+  },
+  {
+    "id": "DOC-00795",
+    "title": "Satış Performans Tutanak #795",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2025-06-08",
+    "sizeKb": 3335
+  },
+  {
+    "id": "DOC-00796",
+    "title": "Vergi Sözleşme #796",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2025-09-12",
+    "sizeKb": 2572
+  },
+  {
+    "id": "DOC-00797",
+    "title": "Yıllık Mali Sözleşme #797",
+    "category": "Sözleşme",
+    "owner": "Elif Şahin",
+    "date": "2024-02-28",
+    "sizeKb": 391
+  },
+  {
+    "id": "DOC-00798",
+    "title": "Tedarikçi Sözleşme #798",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2025-02-05",
+    "sizeKb": 1384
+  },
+  {
+    "id": "DOC-00799",
+    "title": "Bütçe Onay Fatura #799",
+    "category": "Fatura",
+    "owner": "Can Aydın",
+    "date": "2024-08-20",
+    "sizeKb": 1729
+  },
+  {
+    "id": "DOC-00800",
+    "title": "Aralık Ayı Form #800",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2024-10-15",
+    "sizeKb": 3669
+  },
+  {
+    "id": "DOC-00801",
+    "title": "Pazarlama Form #801",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2025-08-22",
+    "sizeKb": 270
+  },
+  {
+    "id": "DOC-00802",
+    "title": "Tedarikçi Form #802",
+    "category": "Form",
+    "owner": "Selin Arslan",
+    "date": "2025-04-16",
+    "sizeKb": 555
+  },
+  {
+    "id": "DOC-00803",
+    "title": "Lojistik Tutanak #803",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2023-03-01",
+    "sizeKb": 653
+  },
+  {
+    "id": "DOC-00804",
+    "title": "Pazarlama Sunum #804",
+    "category": "Sunum",
+    "owner": "Mehmet Demir",
+    "date": "2023-04-09",
+    "sizeKb": 694
+  },
+  {
+    "id": "DOC-00805",
+    "title": "Bütçe Onay Tutanak #805",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2025-09-12",
+    "sizeKb": 1967
+  },
+  {
+    "id": "DOC-00806",
+    "title": "Satış Performans Form #806",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2024-05-07",
+    "sizeKb": 226
+  },
+  {
+    "id": "DOC-00807",
+    "title": "Bütçe Onay Form #807",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2023-09-28",
+    "sizeKb": 2028
+  },
+  {
+    "id": "DOC-00808",
+    "title": "Q3 Operasyon Bordro #808",
+    "category": "Bordro",
+    "owner": "Mert Çelik",
+    "date": "2023-11-01",
+    "sizeKb": 930
+  },
+  {
+    "id": "DOC-00809",
+    "title": "Tedarikçi Form #809",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2025-08-17",
+    "sizeKb": 4340
+  },
+  {
+    "id": "DOC-00810",
+    "title": "Bakım Sunum #810",
+    "category": "Sunum",
+    "owner": "Mehmet Demir",
+    "date": "2025-08-11",
+    "sizeKb": 184
+  },
+  {
+    "id": "DOC-00811",
+    "title": "İK Personel Bordro #811",
+    "category": "Bordro",
+    "owner": "Mert Çelik",
+    "date": "2025-05-03",
+    "sizeKb": 3195
+  },
+  {
+    "id": "DOC-00812",
+    "title": "Tedarikçi Sunum #812",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2024-12-17",
+    "sizeKb": 4807
+  },
+  {
+    "id": "DOC-00813",
+    "title": "İK Personel Sözleşme #813",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-06-13",
+    "sizeKb": 943
+  },
+  {
+    "id": "DOC-00814",
+    "title": "Tedarikçi Rapor #814",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2024-10-06",
+    "sizeKb": 3164
+  },
+  {
+    "id": "DOC-00815",
+    "title": "Stok Sayım Sözleşme #815",
+    "category": "Sözleşme",
+    "owner": "Mert Çelik",
+    "date": "2024-07-02",
+    "sizeKb": 2715
+  },
+  {
+    "id": "DOC-00816",
+    "title": "Müşteri Teklif #816",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2024-11-15",
+    "sizeKb": 4045
+  },
+  {
+    "id": "DOC-00817",
+    "title": "Aralık Ayı Fatura #817",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-04-21",
+    "sizeKb": 4711
+  },
+  {
+    "id": "DOC-00818",
+    "title": "Yıllık Mali Teklif #818",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2025-07-25",
+    "sizeKb": 3996
+  },
+  {
+    "id": "DOC-00819",
+    "title": "Bakım Sözleşme #819",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-12-09",
+    "sizeKb": 1509
+  },
+  {
+    "id": "DOC-00820",
+    "title": "Stok Sayım Sözleşme #820",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2024-02-23",
+    "sizeKb": 3917
+  },
+  {
+    "id": "DOC-00821",
+    "title": "Pazarlama Sözleşme #821",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2025-03-28",
+    "sizeKb": 4861
+  },
+  {
+    "id": "DOC-00822",
+    "title": "Bütçe Onay Sözleşme #822",
+    "category": "Sözleşme",
+    "owner": "Elif Şahin",
+    "date": "2025-05-04",
+    "sizeKb": 4292
+  },
+  {
+    "id": "DOC-00823",
+    "title": "Pazarlama Teklif #823",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2024-05-12",
+    "sizeKb": 3223
+  },
+  {
+    "id": "DOC-00824",
+    "title": "Bakım Teklif #824",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2024-03-12",
+    "sizeKb": 3731
+  },
+  {
+    "id": "DOC-00825",
+    "title": "Aralık Ayı Bordro #825",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2025-04-13",
+    "sizeKb": 4430
+  },
+  {
+    "id": "DOC-00826",
+    "title": "Vergi Rapor #826",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2025-02-01",
+    "sizeKb": 3156
+  },
+  {
+    "id": "DOC-00827",
+    "title": "Yıllık Mali Teklif #827",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2023-02-09",
+    "sizeKb": 823
+  },
+  {
+    "id": "DOC-00828",
+    "title": "İK Personel Teklif #828",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2023-04-03",
+    "sizeKb": 1009
+  },
+  {
+    "id": "DOC-00829",
+    "title": "Eğitim Fatura #829",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2025-10-17",
+    "sizeKb": 4654
+  },
+  {
+    "id": "DOC-00830",
+    "title": "Tedarikçi Teklif #830",
+    "category": "Teklif",
+    "owner": "Selin Arslan",
+    "date": "2025-11-24",
+    "sizeKb": 1108
+  },
+  {
+    "id": "DOC-00831",
+    "title": "Aralık Ayı Teklif #831",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2025-12-05",
+    "sizeKb": 764
+  },
+  {
+    "id": "DOC-00832",
+    "title": "Q3 Operasyon Rapor #832",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2024-06-26",
+    "sizeKb": 1150
+  },
+  {
+    "id": "DOC-00833",
+    "title": "Bütçe Onay Sunum #833",
+    "category": "Sunum",
+    "owner": "Zeynep Kaya",
+    "date": "2023-05-25",
+    "sizeKb": 73
+  },
+  {
+    "id": "DOC-00834",
+    "title": "Aralık Ayı Tutanak #834",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2025-01-01",
+    "sizeKb": 1154
+  },
+  {
+    "id": "DOC-00835",
+    "title": "Aralık Ayı Sunum #835",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2023-11-26",
+    "sizeKb": 3814
+  },
+  {
+    "id": "DOC-00836",
+    "title": "Vergi Form #836",
+    "category": "Form",
+    "owner": "Zeynep Kaya",
+    "date": "2025-12-16",
+    "sizeKb": 3408
+  },
+  {
+    "id": "DOC-00837",
+    "title": "Bütçe Onay Tutanak #837",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2024-10-14",
+    "sizeKb": 2605
+  },
+  {
+    "id": "DOC-00838",
+    "title": "Aralık Ayı Teklif #838",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2025-04-01",
+    "sizeKb": 3736
+  },
+  {
+    "id": "DOC-00839",
+    "title": "Satış Performans Tutanak #839",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2024-12-02",
+    "sizeKb": 1160
+  },
+  {
+    "id": "DOC-00840",
+    "title": "Yıllık Mali Tutanak #840",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2024-07-22",
+    "sizeKb": 865
+  },
+  {
+    "id": "DOC-00841",
+    "title": "Yıllık Mali Sunum #841",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2023-11-24",
+    "sizeKb": 798
+  },
+  {
+    "id": "DOC-00842",
+    "title": "Q3 Operasyon Bordro #842",
+    "category": "Bordro",
+    "owner": "Can Aydın",
+    "date": "2023-05-26",
+    "sizeKb": 2795
+  },
+  {
+    "id": "DOC-00843",
+    "title": "İK Personel Rapor #843",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2023-09-02",
+    "sizeKb": 2343
+  },
+  {
+    "id": "DOC-00844",
+    "title": "Müşteri Teklif #844",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2024-06-05",
+    "sizeKb": 930
+  },
+  {
+    "id": "DOC-00845",
+    "title": "Yıllık Mali Teklif #845",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2024-03-22",
+    "sizeKb": 4484
+  },
+  {
+    "id": "DOC-00846",
+    "title": "Pazarlama Tutanak #846",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2024-08-01",
+    "sizeKb": 4216
+  },
+  {
+    "id": "DOC-00847",
+    "title": "Pazarlama Bordro #847",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2025-05-16",
+    "sizeKb": 3536
+  },
+  {
+    "id": "DOC-00848",
+    "title": "Eğitim Rapor #848",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2023-11-22",
+    "sizeKb": 4092
+  },
+  {
+    "id": "DOC-00849",
+    "title": "Yıllık Mali Sözleşme #849",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2024-10-21",
+    "sizeKb": 1754
+  },
+  {
+    "id": "DOC-00850",
+    "title": "İK Personel Tutanak #850",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2023-05-16",
+    "sizeKb": 3280
+  },
+  {
+    "id": "DOC-00851",
+    "title": "Hukuk Teklif #851",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2025-10-25",
+    "sizeKb": 625
+  },
+  {
+    "id": "DOC-00852",
+    "title": "Stok Sayım Rapor #852",
+    "category": "Rapor",
+    "owner": "Mert Çelik",
+    "date": "2023-12-18",
+    "sizeKb": 1898
+  },
+  {
+    "id": "DOC-00853",
+    "title": "Eğitim Rapor #853",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2023-06-01",
+    "sizeKb": 351
+  },
+  {
+    "id": "DOC-00854",
+    "title": "Q3 Operasyon Fatura #854",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2024-03-01",
+    "sizeKb": 2335
+  },
+  {
+    "id": "DOC-00855",
+    "title": "Stok Sayım Tutanak #855",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2023-05-02",
+    "sizeKb": 434
+  },
+  {
+    "id": "DOC-00856",
+    "title": "Satış Performans Sözleşme #856",
+    "category": "Sözleşme",
+    "owner": "Elif Şahin",
+    "date": "2023-05-03",
+    "sizeKb": 287
+  },
+  {
+    "id": "DOC-00857",
+    "title": "Stok Sayım Teklif #857",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2024-12-27",
+    "sizeKb": 3822
+  },
+  {
+    "id": "DOC-00858",
+    "title": "Tedarikçi Teklif #858",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2025-04-12",
+    "sizeKb": 2857
+  },
+  {
+    "id": "DOC-00859",
+    "title": "Yıllık Mali Bordro #859",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-08-10",
+    "sizeKb": 2686
+  },
+  {
+    "id": "DOC-00860",
+    "title": "Pazarlama Fatura #860",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-11-10",
+    "sizeKb": 2657
+  },
+  {
+    "id": "DOC-00861",
+    "title": "Bakım Rapor #861",
+    "category": "Rapor",
+    "owner": "Mert Çelik",
+    "date": "2023-04-15",
+    "sizeKb": 4841
+  },
+  {
+    "id": "DOC-00862",
+    "title": "Bakım Form #862",
+    "category": "Form",
+    "owner": "Can Aydın",
+    "date": "2023-08-05",
+    "sizeKb": 3303
+  },
+  {
+    "id": "DOC-00863",
+    "title": "Pazarlama Sunum #863",
+    "category": "Sunum",
+    "owner": "Zeynep Kaya",
+    "date": "2024-11-03",
+    "sizeKb": 1165
+  },
+  {
+    "id": "DOC-00864",
+    "title": "Lojistik Tutanak #864",
+    "category": "Tutanak",
+    "owner": "Mert Çelik",
+    "date": "2025-07-28",
+    "sizeKb": 52
+  },
+  {
+    "id": "DOC-00865",
+    "title": "Lojistik Teklif #865",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2023-11-12",
+    "sizeKb": 3291
+  },
+  {
+    "id": "DOC-00866",
+    "title": "Stok Sayım Tutanak #866",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2024-09-08",
+    "sizeKb": 2851
+  },
+  {
+    "id": "DOC-00867",
+    "title": "Vergi Rapor #867",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2024-08-19",
+    "sizeKb": 2703
+  },
+  {
+    "id": "DOC-00868",
+    "title": "Aralık Ayı Sözleşme #868",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2024-07-10",
+    "sizeKb": 2506
+  },
+  {
+    "id": "DOC-00869",
+    "title": "Yıllık Mali Sözleşme #869",
+    "category": "Sözleşme",
+    "owner": "Mert Çelik",
+    "date": "2024-03-23",
+    "sizeKb": 477
+  },
+  {
+    "id": "DOC-00870",
+    "title": "Q3 Operasyon Tutanak #870",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2025-03-03",
+    "sizeKb": 3457
+  },
+  {
+    "id": "DOC-00871",
+    "title": "Hukuk Tutanak #871",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2023-01-26",
+    "sizeKb": 1476
+  },
+  {
+    "id": "DOC-00872",
+    "title": "Bakım Sözleşme #872",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2024-04-22",
+    "sizeKb": 4016
+  },
+  {
+    "id": "DOC-00873",
+    "title": "Müşteri Sunum #873",
+    "category": "Sunum",
+    "owner": "Zeynep Kaya",
+    "date": "2023-02-18",
+    "sizeKb": 2784
+  },
+  {
+    "id": "DOC-00874",
+    "title": "Tedarikçi Rapor #874",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2023-09-04",
+    "sizeKb": 299
+  },
+  {
+    "id": "DOC-00875",
+    "title": "Bakım Sunum #875",
+    "category": "Sunum",
+    "owner": "Mehmet Demir",
+    "date": "2024-11-05",
+    "sizeKb": 3909
+  },
+  {
+    "id": "DOC-00876",
+    "title": "Bakım Form #876",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2024-07-26",
+    "sizeKb": 3159
+  },
+  {
+    "id": "DOC-00877",
+    "title": "Yıllık Mali Tutanak #877",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-10-21",
+    "sizeKb": 3603
+  },
+  {
+    "id": "DOC-00878",
+    "title": "Eğitim Fatura #878",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-06-21",
+    "sizeKb": 2700
+  },
+  {
+    "id": "DOC-00879",
+    "title": "Bütçe Onay Rapor #879",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2025-11-03",
+    "sizeKb": 3424
+  },
+  {
+    "id": "DOC-00880",
+    "title": "Satış Performans Teklif #880",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2024-05-04",
+    "sizeKb": 4487
+  },
+  {
+    "id": "DOC-00881",
+    "title": "Yıllık Mali Rapor #881",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2023-05-25",
+    "sizeKb": 4604
+  },
+  {
+    "id": "DOC-00882",
+    "title": "Q3 Operasyon Fatura #882",
+    "category": "Fatura",
+    "owner": "Zeynep Kaya",
+    "date": "2024-11-15",
+    "sizeKb": 4179
+  },
+  {
+    "id": "DOC-00883",
+    "title": "Hukuk Fatura #883",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2023-03-20",
+    "sizeKb": 401
+  },
+  {
+    "id": "DOC-00884",
+    "title": "Pazarlama Rapor #884",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2024-11-23",
+    "sizeKb": 1287
+  },
+  {
+    "id": "DOC-00885",
+    "title": "Eğitim Tutanak #885",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2025-11-14",
+    "sizeKb": 3584
+  },
+  {
+    "id": "DOC-00886",
+    "title": "Yıllık Mali Rapor #886",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2024-10-12",
+    "sizeKb": 3978
+  },
+  {
+    "id": "DOC-00887",
+    "title": "Vergi Teklif #887",
+    "category": "Teklif",
+    "owner": "Selin Arslan",
+    "date": "2024-05-07",
+    "sizeKb": 3137
+  },
+  {
+    "id": "DOC-00888",
+    "title": "Q3 Operasyon Sunum #888",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2024-04-26",
+    "sizeKb": 1007
+  },
+  {
+    "id": "DOC-00889",
+    "title": "Pazarlama Fatura #889",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2023-08-14",
+    "sizeKb": 2906
+  },
+  {
+    "id": "DOC-00890",
+    "title": "Stok Sayım Tutanak #890",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2025-08-07",
+    "sizeKb": 4043
+  },
+  {
+    "id": "DOC-00891",
+    "title": "Bakım Fatura #891",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2024-07-07",
+    "sizeKb": 2527
+  },
+  {
+    "id": "DOC-00892",
+    "title": "Eğitim Sözleşme #892",
+    "category": "Sözleşme",
+    "owner": "Mehmet Demir",
+    "date": "2025-02-26",
+    "sizeKb": 1024
+  },
+  {
+    "id": "DOC-00893",
+    "title": "Stok Sayım Fatura #893",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2024-11-02",
+    "sizeKb": 3162
+  },
+  {
+    "id": "DOC-00894",
+    "title": "Eğitim Sözleşme #894",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2023-05-03",
+    "sizeKb": 3207
+  },
+  {
+    "id": "DOC-00895",
+    "title": "Yıllık Mali Rapor #895",
+    "category": "Rapor",
+    "owner": "Mehmet Demir",
+    "date": "2025-12-13",
+    "sizeKb": 2185
+  },
+  {
+    "id": "DOC-00896",
+    "title": "İK Personel Form #896",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2023-02-03",
+    "sizeKb": 2752
+  },
+  {
+    "id": "DOC-00897",
+    "title": "Aralık Ayı Teklif #897",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2025-07-13",
+    "sizeKb": 3787
+  },
+  {
+    "id": "DOC-00898",
+    "title": "Eğitim Fatura #898",
+    "category": "Fatura",
+    "owner": "Mehmet Demir",
+    "date": "2024-10-27",
+    "sizeKb": 1206
+  },
+  {
+    "id": "DOC-00899",
+    "title": "Satış Performans Fatura #899",
+    "category": "Fatura",
+    "owner": "Burak Doğan",
+    "date": "2025-09-03",
+    "sizeKb": 3737
+  },
+  {
+    "id": "DOC-00900",
+    "title": "Hukuk Fatura #900",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2025-08-13",
+    "sizeKb": 4941
+  },
+  {
+    "id": "DOC-00901",
+    "title": "Pazarlama Bordro #901",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2024-04-05",
+    "sizeKb": 899
+  },
+  {
+    "id": "DOC-00902",
+    "title": "Eğitim Form #902",
+    "category": "Form",
+    "owner": "Zeynep Kaya",
+    "date": "2024-10-12",
+    "sizeKb": 1160
+  },
+  {
+    "id": "DOC-00903",
+    "title": "Bütçe Onay Sunum #903",
+    "category": "Sunum",
+    "owner": "Mert Çelik",
+    "date": "2024-04-21",
+    "sizeKb": 3350
+  },
+  {
+    "id": "DOC-00904",
+    "title": "Stok Sayım Form #904",
+    "category": "Form",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-04-20",
+    "sizeKb": 4727
+  },
+  {
+    "id": "DOC-00905",
+    "title": "Yıllık Mali Form #905",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2023-04-23",
+    "sizeKb": 53
+  },
+  {
+    "id": "DOC-00906",
+    "title": "İK Personel Rapor #906",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2025-05-15",
+    "sizeKb": 1006
+  },
+  {
+    "id": "DOC-00907",
+    "title": "Hukuk Sunum #907",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2025-12-22",
+    "sizeKb": 899
+  },
+  {
+    "id": "DOC-00908",
+    "title": "İK Personel Rapor #908",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2023-05-08",
+    "sizeKb": 3490
+  },
+  {
+    "id": "DOC-00909",
+    "title": "Satış Performans Form #909",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2025-07-17",
+    "sizeKb": 2473
+  },
+  {
+    "id": "DOC-00910",
+    "title": "Eğitim Sunum #910",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2024-03-11",
+    "sizeKb": 2965
+  },
+  {
+    "id": "DOC-00911",
+    "title": "İK Personel Bordro #911",
+    "category": "Bordro",
+    "owner": "Can Aydın",
+    "date": "2024-08-19",
+    "sizeKb": 1077
+  },
+  {
+    "id": "DOC-00912",
+    "title": "Bütçe Onay Form #912",
+    "category": "Form",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-02-14",
+    "sizeKb": 4512
+  },
+  {
+    "id": "DOC-00913",
+    "title": "Yıllık Mali Rapor #913",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2024-08-13",
+    "sizeKb": 571
+  },
+  {
+    "id": "DOC-00914",
+    "title": "Lojistik Form #914",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2024-04-10",
+    "sizeKb": 2814
+  },
+  {
+    "id": "DOC-00915",
+    "title": "Yıllık Mali Sunum #915",
+    "category": "Sunum",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-01-11",
+    "sizeKb": 2709
+  },
+  {
+    "id": "DOC-00916",
+    "title": "Vergi Tutanak #916",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2023-01-03",
+    "sizeKb": 3986
+  },
+  {
+    "id": "DOC-00917",
+    "title": "Pazarlama Sözleşme #917",
+    "category": "Sözleşme",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-11-27",
+    "sizeKb": 1507
+  },
+  {
+    "id": "DOC-00918",
+    "title": "Bakım Fatura #918",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2025-07-11",
+    "sizeKb": 142
+  },
+  {
+    "id": "DOC-00919",
+    "title": "Tedarikçi Sözleşme #919",
+    "category": "Sözleşme",
+    "owner": "Elif Şahin",
+    "date": "2025-03-03",
+    "sizeKb": 2556
+  },
+  {
+    "id": "DOC-00920",
+    "title": "Bütçe Onay Form #920",
+    "category": "Form",
+    "owner": "Mehmet Demir",
+    "date": "2024-07-26",
+    "sizeKb": 4936
+  },
+  {
+    "id": "DOC-00921",
+    "title": "Müşteri Bordro #921",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2023-01-12",
+    "sizeKb": 4689
+  },
+  {
+    "id": "DOC-00922",
+    "title": "Müşteri Rapor #922",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-03-03",
+    "sizeKb": 445
+  },
+  {
+    "id": "DOC-00923",
+    "title": "Bakım Teklif #923",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2023-09-15",
+    "sizeKb": 1446
+  },
+  {
+    "id": "DOC-00924",
+    "title": "Q3 Operasyon Rapor #924",
+    "category": "Rapor",
+    "owner": "Mert Çelik",
+    "date": "2024-10-04",
+    "sizeKb": 3834
+  },
+  {
+    "id": "DOC-00925",
+    "title": "Eğitim Form #925",
+    "category": "Form",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-09-24",
+    "sizeKb": 1070
+  },
+  {
+    "id": "DOC-00926",
+    "title": "Aralık Ayı Teklif #926",
+    "category": "Teklif",
+    "owner": "Burak Doğan",
+    "date": "2024-11-26",
+    "sizeKb": 1369
+  },
+  {
+    "id": "DOC-00927",
+    "title": "Eğitim Form #927",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2025-05-24",
+    "sizeKb": 2633
+  },
+  {
+    "id": "DOC-00928",
+    "title": "Lojistik Tutanak #928",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2024-06-24",
+    "sizeKb": 2080
+  },
+  {
+    "id": "DOC-00929",
+    "title": "Hukuk Rapor #929",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2024-08-14",
+    "sizeKb": 4452
+  },
+  {
+    "id": "DOC-00930",
+    "title": "Pazarlama Sunum #930",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2023-09-03",
+    "sizeKb": 4773
+  },
+  {
+    "id": "DOC-00931",
+    "title": "Hukuk Tutanak #931",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2024-10-19",
+    "sizeKb": 4921
+  },
+  {
+    "id": "DOC-00932",
+    "title": "Bakım Form #932",
+    "category": "Form",
+    "owner": "Selin Arslan",
+    "date": "2024-06-08",
+    "sizeKb": 1898
+  },
+  {
+    "id": "DOC-00933",
+    "title": "Vergi Fatura #933",
+    "category": "Fatura",
+    "owner": "Elif Şahin",
+    "date": "2025-05-25",
+    "sizeKb": 2913
+  },
+  {
+    "id": "DOC-00934",
+    "title": "Lojistik Rapor #934",
+    "category": "Rapor",
+    "owner": "Selin Arslan",
+    "date": "2025-07-22",
+    "sizeKb": 3373
+  },
+  {
+    "id": "DOC-00935",
+    "title": "Vergi Bordro #935",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2025-10-20",
+    "sizeKb": 4978
+  },
+  {
+    "id": "DOC-00936",
+    "title": "Aralık Ayı Fatura #936",
+    "category": "Fatura",
+    "owner": "Mert Çelik",
+    "date": "2025-04-01",
+    "sizeKb": 1045
+  },
+  {
+    "id": "DOC-00937",
+    "title": "Lojistik Tutanak #937",
+    "category": "Tutanak",
+    "owner": "Mehmet Demir",
+    "date": "2025-02-21",
+    "sizeKb": 341
+  },
+  {
+    "id": "DOC-00938",
+    "title": "Müşteri Sunum #938",
+    "category": "Sunum",
+    "owner": "Mehmet Demir",
+    "date": "2024-02-19",
+    "sizeKb": 359
+  },
+  {
+    "id": "DOC-00939",
+    "title": "Müşteri Sunum #939",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2025-08-16",
+    "sizeKb": 1946
+  },
+  {
+    "id": "DOC-00940",
+    "title": "Q3 Operasyon Tutanak #940",
+    "category": "Tutanak",
+    "owner": "Elif Şahin",
+    "date": "2024-02-05",
+    "sizeKb": 2851
+  },
+  {
+    "id": "DOC-00941",
+    "title": "Bütçe Onay Form #941",
+    "category": "Form",
+    "owner": "Zeynep Kaya",
+    "date": "2024-01-11",
+    "sizeKb": 4351
+  },
+  {
+    "id": "DOC-00942",
+    "title": "Pazarlama Sunum #942",
+    "category": "Sunum",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-05-07",
+    "sizeKb": 485
+  },
+  {
+    "id": "DOC-00943",
+    "title": "Hukuk Tutanak #943",
+    "category": "Tutanak",
+    "owner": "Burak Doğan",
+    "date": "2025-10-13",
+    "sizeKb": 4743
+  },
+  {
+    "id": "DOC-00944",
+    "title": "Satış Performans Sunum #944",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2023-06-09",
+    "sizeKb": 2927
+  },
+  {
+    "id": "DOC-00945",
+    "title": "Aralık Ayı Sunum #945",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2024-04-19",
+    "sizeKb": 923
+  },
+  {
+    "id": "DOC-00946",
+    "title": "Satış Performans Teklif #946",
+    "category": "Teklif",
+    "owner": "Can Aydın",
+    "date": "2023-03-15",
+    "sizeKb": 636
+  },
+  {
+    "id": "DOC-00947",
+    "title": "Eğitim Form #947",
+    "category": "Form",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-10-24",
+    "sizeKb": 3869
+  },
+  {
+    "id": "DOC-00948",
+    "title": "Müşteri Teklif #948",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-11-23",
+    "sizeKb": 1480
+  },
+  {
+    "id": "DOC-00949",
+    "title": "Eğitim Form #949",
+    "category": "Form",
+    "owner": "Zeynep Kaya",
+    "date": "2024-09-28",
+    "sizeKb": 2949
+  },
+  {
+    "id": "DOC-00950",
+    "title": "Eğitim Tutanak #950",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2024-03-08",
+    "sizeKb": 243
+  },
+  {
+    "id": "DOC-00951",
+    "title": "Tedarikçi Bordro #951",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2025-06-14",
+    "sizeKb": 931
+  },
+  {
+    "id": "DOC-00952",
+    "title": "Eğitim Tutanak #952",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2025-08-14",
+    "sizeKb": 3640
+  },
+  {
+    "id": "DOC-00953",
+    "title": "Aralık Ayı Form #953",
+    "category": "Form",
+    "owner": "Mert Çelik",
+    "date": "2023-09-24",
+    "sizeKb": 380
+  },
+  {
+    "id": "DOC-00954",
+    "title": "Bakım Rapor #954",
+    "category": "Rapor",
+    "owner": "Burak Doğan",
+    "date": "2025-03-18",
+    "sizeKb": 3500
+  },
+  {
+    "id": "DOC-00955",
+    "title": "Bütçe Onay Bordro #955",
+    "category": "Bordro",
+    "owner": "Mehmet Demir",
+    "date": "2023-02-25",
+    "sizeKb": 2683
+  },
+  {
+    "id": "DOC-00956",
+    "title": "Bakım Teklif #956",
+    "category": "Teklif",
+    "owner": "Zeynep Kaya",
+    "date": "2025-12-20",
+    "sizeKb": 3248
+  },
+  {
+    "id": "DOC-00957",
+    "title": "Bütçe Onay Teklif #957",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2024-01-15",
+    "sizeKb": 2682
+  },
+  {
+    "id": "DOC-00958",
+    "title": "Yıllık Mali Sunum #958",
+    "category": "Sunum",
+    "owner": "Zeynep Kaya",
+    "date": "2025-07-27",
+    "sizeKb": 3127
+  },
+  {
+    "id": "DOC-00959",
+    "title": "Bütçe Onay Bordro #959",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2025-11-04",
+    "sizeKb": 1172
+  },
+  {
+    "id": "DOC-00960",
+    "title": "İK Personel Tutanak #960",
+    "category": "Tutanak",
+    "owner": "Zeynep Kaya",
+    "date": "2025-06-02",
+    "sizeKb": 2019
+  },
+  {
+    "id": "DOC-00961",
+    "title": "İK Personel Sunum #961",
+    "category": "Sunum",
+    "owner": "Elif Şahin",
+    "date": "2025-06-21",
+    "sizeKb": 1064
+  },
+  {
+    "id": "DOC-00962",
+    "title": "Pazarlama Rapor #962",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2025-05-18",
+    "sizeKb": 2775
+  },
+  {
+    "id": "DOC-00963",
+    "title": "Müşteri Sunum #963",
+    "category": "Sunum",
+    "owner": "Selin Arslan",
+    "date": "2024-11-25",
+    "sizeKb": 2453
+  },
+  {
+    "id": "DOC-00964",
+    "title": "İK Personel Sözleşme #964",
+    "category": "Sözleşme",
+    "owner": "Can Aydın",
+    "date": "2023-11-07",
+    "sizeKb": 1027
+  },
+  {
+    "id": "DOC-00965",
+    "title": "Q3 Operasyon Bordro #965",
+    "category": "Bordro",
+    "owner": "Burak Doğan",
+    "date": "2025-02-05",
+    "sizeKb": 912
+  },
+  {
+    "id": "DOC-00966",
+    "title": "Vergi Tutanak #966",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2025-12-24",
+    "sizeKb": 3443
+  },
+  {
+    "id": "DOC-00967",
+    "title": "Bakım Form #967",
+    "category": "Form",
+    "owner": "Selin Arslan",
+    "date": "2024-11-09",
+    "sizeKb": 1490
+  },
+  {
+    "id": "DOC-00968",
+    "title": "Aralık Ayı Fatura #968",
+    "category": "Fatura",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-09-17",
+    "sizeKb": 1655
+  },
+  {
+    "id": "DOC-00969",
+    "title": "Hukuk Rapor #969",
+    "category": "Rapor",
+    "owner": "Can Aydın",
+    "date": "2023-11-25",
+    "sizeKb": 3191
+  },
+  {
+    "id": "DOC-00970",
+    "title": "Stok Sayım Sözleşme #970",
+    "category": "Sözleşme",
+    "owner": "Mert Çelik",
+    "date": "2024-04-14",
+    "sizeKb": 3529
+  },
+  {
+    "id": "DOC-00971",
+    "title": "Vergi Form #971",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2024-09-05",
+    "sizeKb": 4033
+  },
+  {
+    "id": "DOC-00972",
+    "title": "Eğitim Bordro #972",
+    "category": "Bordro",
+    "owner": "Selin Arslan",
+    "date": "2025-02-19",
+    "sizeKb": 172
+  },
+  {
+    "id": "DOC-00973",
+    "title": "Müşteri Bordro #973",
+    "category": "Bordro",
+    "owner": "Elif Şahin",
+    "date": "2024-04-16",
+    "sizeKb": 2921
+  },
+  {
+    "id": "DOC-00974",
+    "title": "Hukuk Sözleşme #974",
+    "category": "Sözleşme",
+    "owner": "Zeynep Kaya",
+    "date": "2024-05-06",
+    "sizeKb": 763
+  },
+  {
+    "id": "DOC-00975",
+    "title": "Tedarikçi Sunum #975",
+    "category": "Sunum",
+    "owner": "Mehmet Demir",
+    "date": "2024-03-15",
+    "sizeKb": 2073
+  },
+  {
+    "id": "DOC-00976",
+    "title": "Bütçe Onay Sunum #976",
+    "category": "Sunum",
+    "owner": "Can Aydın",
+    "date": "2023-04-07",
+    "sizeKb": 2225
+  },
+  {
+    "id": "DOC-00977",
+    "title": "Müşteri Sunum #977",
+    "category": "Sunum",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-02-11",
+    "sizeKb": 506
+  },
+  {
+    "id": "DOC-00978",
+    "title": "Yıllık Mali Tutanak #978",
+    "category": "Tutanak",
+    "owner": "Selin Arslan",
+    "date": "2023-06-11",
+    "sizeKb": 4701
+  },
+  {
+    "id": "DOC-00979",
+    "title": "Hukuk Sunum #979",
+    "category": "Sunum",
+    "owner": "Mehmet Demir",
+    "date": "2023-01-17",
+    "sizeKb": 4684
+  },
+  {
+    "id": "DOC-00980",
+    "title": "Eğitim Rapor #980",
+    "category": "Rapor",
+    "owner": "Zeynep Kaya",
+    "date": "2024-01-28",
+    "sizeKb": 4523
+  },
+  {
+    "id": "DOC-00981",
+    "title": "Q3 Operasyon Teklif #981",
+    "category": "Teklif",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-11-13",
+    "sizeKb": 274
+  },
+  {
+    "id": "DOC-00982",
+    "title": "Bakım Form #982",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2024-03-08",
+    "sizeKb": 4509
+  },
+  {
+    "id": "DOC-00983",
+    "title": "Müşteri Rapor #983",
+    "category": "Rapor",
+    "owner": "Mert Çelik",
+    "date": "2024-04-06",
+    "sizeKb": 3736
+  },
+  {
+    "id": "DOC-00984",
+    "title": "Stok Sayım Rapor #984",
+    "category": "Rapor",
+    "owner": "Elif Şahin",
+    "date": "2024-12-06",
+    "sizeKb": 1584
+  },
+  {
+    "id": "DOC-00985",
+    "title": "Pazarlama Bordro #985",
+    "category": "Bordro",
+    "owner": "Zeynep Kaya",
+    "date": "2025-03-15",
+    "sizeKb": 230
+  },
+  {
+    "id": "DOC-00986",
+    "title": "Hukuk Tutanak #986",
+    "category": "Tutanak",
+    "owner": "Can Aydın",
+    "date": "2025-06-21",
+    "sizeKb": 3997
+  },
+  {
+    "id": "DOC-00987",
+    "title": "Aralık Ayı Sunum #987",
+    "category": "Sunum",
+    "owner": "Burak Doğan",
+    "date": "2025-10-22",
+    "sizeKb": 878
+  },
+  {
+    "id": "DOC-00988",
+    "title": "Aralık Ayı Bordro #988",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-03-27",
+    "sizeKb": 3846
+  },
+  {
+    "id": "DOC-00989",
+    "title": "Tedarikçi Form #989",
+    "category": "Form",
+    "owner": "Elif Şahin",
+    "date": "2024-01-19",
+    "sizeKb": 4073
+  },
+  {
+    "id": "DOC-00990",
+    "title": "Bütçe Onay Teklif #990",
+    "category": "Teklif",
+    "owner": "Mehmet Demir",
+    "date": "2025-07-25",
+    "sizeKb": 3436
+  },
+  {
+    "id": "DOC-00991",
+    "title": "Hukuk Bordro #991",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-08-08",
+    "sizeKb": 2294
+  },
+  {
+    "id": "DOC-00992",
+    "title": "Aralık Ayı Teklif #992",
+    "category": "Teklif",
+    "owner": "Selin Arslan",
+    "date": "2023-11-22",
+    "sizeKb": 4379
+  },
+  {
+    "id": "DOC-00993",
+    "title": "Hukuk Bordro #993",
+    "category": "Bordro",
+    "owner": "Mert Çelik",
+    "date": "2023-01-07",
+    "sizeKb": 1972
+  },
+  {
+    "id": "DOC-00994",
+    "title": "Bütçe Onay Teklif #994",
+    "category": "Teklif",
+    "owner": "Elif Şahin",
+    "date": "2023-02-10",
+    "sizeKb": 1576
+  },
+  {
+    "id": "DOC-00995",
+    "title": "Hukuk Tutanak #995",
+    "category": "Tutanak",
+    "owner": "Ayşe Yılmaz",
+    "date": "2023-10-27",
+    "sizeKb": 72
+  },
+  {
+    "id": "DOC-00996",
+    "title": "Tedarikçi Rapor #996",
+    "category": "Rapor",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-05-02",
+    "sizeKb": 2532
+  },
+  {
+    "id": "DOC-00997",
+    "title": "Aralık Ayı Sözleşme #997",
+    "category": "Sözleşme",
+    "owner": "Burak Doğan",
+    "date": "2023-12-14",
+    "sizeKb": 1929
+  },
+  {
+    "id": "DOC-00998",
+    "title": "Eğitim Bordro #998",
+    "category": "Bordro",
+    "owner": "Ayşe Yılmaz",
+    "date": "2025-03-11",
+    "sizeKb": 94
+  },
+  {
+    "id": "DOC-00999",
+    "title": "Aralık Ayı Form #999",
+    "category": "Form",
+    "owner": "Burak Doğan",
+    "date": "2025-10-05",
+    "sizeKb": 2545
+  },
+  {
+    "id": "DOC-01000",
+    "title": "Hukuk Bordro #1000",
+    "category": "Bordro",
+    "owner": "Zeynep Kaya",
+    "date": "2024-12-07",
+    "sizeKb": 4585
+  }
+]
